@@ -6,7 +6,7 @@ Tracks GPU prices and availability across major retailers, preserves daily price
 
 A manually reviewed, one-time direct retailer check was recorded on 2026-11-04 UTC (November 3 Central Time). The data includes 12 successful price observations, with stock status and individual check timestamps. The live dashboard is connected at https://raddata.dev/gpu-tracker.html. Automatic collection is not implemented or scheduled; `collection_enabled` remains false.
 
-The watchlist contains three exact Gigabyte models—RX 9070 XT GAMING OC, RTX 5070 Ti WINDFORCE OC SFF, and RTX 5080 WINDFORCE OC SFF—across Micro Center (Overland Park), Newegg, Best Buy, and B&H Photo. Amazon is excluded. The RTX 5080 specs were checked against Gigabyte's specification page. The other starter specs still need manufacturer verification.
+The watchlist contains three exact Gigabyte models—RX 9070 XT GAMING OC, RTX 5070 Ti WINDFORCE OC SFF, and RTX 5080 WINDFORCE OC SFF—across Micro Center (Overland Park), Newegg, Best Buy, and B&H Photo. Amazon is excluded. VRAM capacity, memory type, memory bus width, and core counts are checked against Gigabyte's specification pages for all three cards.
 
 ## Layout
 
