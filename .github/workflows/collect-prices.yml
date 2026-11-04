@@ -1,0 +1,24 @@
+name: Validate tracker scaffold
+
+# Manual validation only. Add a daily schedule after live collection is verified.
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Validate tracker configuration
+        run: python scripts/collect_prices.py --validate-config

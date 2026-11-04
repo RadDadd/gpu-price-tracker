@@ -1,0 +1,15 @@
+# Local Python and editor files
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+.DS_Store
+.vscode/
+.idea/
+# Temporary responses and debug output; normalized history remains tracked
+scratch/
+logs/
+*.log

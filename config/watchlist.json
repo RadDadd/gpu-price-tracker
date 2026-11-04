@@ -1,0 +1,117 @@
+{
+  "schema_version": "1.0",
+  "currency": "USD",
+  "display_timezone": "America/Chicago",
+  "collection_enabled": false,
+  "cadence": {
+    "target_frequency": "daily",
+    "target_local_time": "07:17",
+    "timezone": "America/Chicago",
+    "scheduled": false
+  },
+  "retailers": [
+    {
+      "retailer_id": "microcenter",
+      "name": "Micro Center",
+      "allowed_hostname": "www.microcenter.com",
+      "seller": "Micro Center",
+      "location": "Overland Park, KS",
+      "store_id": "191"
+    },
+    {
+      "retailer_id": "newegg",
+      "name": "Newegg",
+      "allowed_hostname": "www.newegg.com",
+      "seller": "Newegg",
+      "location": null
+    },
+    {
+      "retailer_id": "bestbuy",
+      "name": "Best Buy",
+      "allowed_hostname": "www.bestbuy.com",
+      "seller": "Best Buy",
+      "location": null
+    },
+    {
+      "retailer_id": "bhphoto",
+      "name": "B&H Photo",
+      "allowed_hostname": "www.bhphotovideo.com",
+      "seller": "B&H Photo",
+      "location": null
+    }
+  ],
+  "listings": [
+    {
+      "listing_id": "microcenter-rx9070xt",
+      "card_id": "gigabyte-rx9070xt-gaming-oc",
+      "retailer_id": "microcenter",
+      "retailer_sku": "799841",
+      "product_url": "https://www.microcenter.com/product/690004/gigabyte-amd-radeon-rx-9070-xt-gaming-overclocked-triple-fan-16gb-gddr6-pcie-50-graphics-card?storeid=191",
+      "condition": "new",
+      "enabled": true
+    },
+    {
+      "listing_id": "microcenter-rtx5070ti",
+      "card_id": "gigabyte-rtx5070ti-windforce-oc",
+      "retailer_id": "microcenter",
+      "retailer_sku": "813949",
+      "product_url": "https://www.microcenter.com/product/691225/gigabyte-nvidia-geforce-rtx-5070-ti-windforce-sff-overclocked-triple-fan-16gb-gddr7-pcie-50-graphics-card?storeid=191",
+      "condition": "new",
+      "enabled": true
+    },
+    {
+      "listing_id": "newegg-rx9070xt",
+      "card_id": "gigabyte-rx9070xt-gaming-oc",
+      "retailer_id": "newegg",
+      "retailer_sku": "N82E16814932751",
+      "product_url": "https://www.newegg.com/p/N82E16814932751",
+      "condition": "new",
+      "enabled": true
+    },
+    {
+      "listing_id": "newegg-rtx5070ti",
+      "card_id": "gigabyte-rtx5070ti-windforce-oc",
+      "retailer_id": "newegg",
+      "retailer_sku": "N82E16814932771",
+      "product_url": "https://www.newegg.com/p/N82E16814932771",
+      "condition": "new",
+      "enabled": true
+    },
+    {
+      "listing_id": "bestbuy-rx9070xt",
+      "card_id": "gigabyte-rx9070xt-gaming-oc",
+      "retailer_id": "bestbuy",
+      "retailer_sku": "6617866",
+      "product_url": "https://www.bestbuy.com/product/gigabyte-radeon-rx-9070-xt-gaming-oc-16g-gddr6-pci-express-5-0-graphics-card-black/J3ZW9X7JCK",
+      "condition": "new",
+      "enabled": true
+    },
+    {
+      "listing_id": "bestbuy-rtx5070ti",
+      "card_id": "gigabyte-rtx5070ti-windforce-oc",
+      "retailer_id": "bestbuy",
+      "retailer_sku": "6618883",
+      "product_url": "https://www.bestbuy.com/product/gigabyte-nvidia-geforce-rtx-5070-ti-windforce-oc-sff-16g-gddr7-pci-express-5-0-graphics-card-black/J3ZW9X7J45/sku/6618883",
+      "condition": "new",
+      "enabled": true
+    },
+    {
+      "listing_id": "bhphoto-rx9070xt",
+      "card_id": "gigabyte-rx9070xt-gaming-oc",
+      "retailer_id": "bhphoto",
+      "retailer_sku": "GIR9070XTG16",
+      "product_url": "https://www.bhphotovideo.com/c/product/1872785-REG/gigabyte_gv_r9070xtgaming_oc_16gd_radeon_rx_9070_xt.html",
+      "condition": "new",
+      "enabled": true
+    },
+    {
+      "listing_id": "bhphoto-rtx5070ti",
+      "card_id": "gigabyte-rtx5070ti-windforce-oc",
+      "retailer_id": "bhphoto",
+      "retailer_sku": "GIN507TWF3OC",
+      "product_url": "https://www.bhphotovideo.com/c/product/1879575-REG/gigabyte_gv_n507twf3oc_16gd_geforce_rtx_5070_ti.html",
+      "condition": "new",
+      "enabled": true
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "cards": [
+    {
+      "card_id": "gigabyte-rx9070xt-gaming-oc",
+      "gpu_manufacturer": "AMD",
+      "gpu_model": "RX 9070 XT",
+      "card_manufacturer": "Gigabyte",
+      "series": "GAMING OC",
+      "full_card_name": "Gigabyte Radeon RX 9070 XT GAMING OC 16G",
+      "manufacturer_part_number": "GV-R9070XTGAMING OC-16GD",
+      "upc": "889523047569",
+      "specs": {
+        "vram_gb": 16,
+        "memory_type": "GDDR6",
+        "memory_bus_bits": 256
+      },
+      "specs_status": "starter_reference_manufacturer_verification_pending"
+    },
+    {
+      "card_id": "gigabyte-rtx5070ti-windforce-oc",
+      "gpu_manufacturer": "NVIDIA",
+      "gpu_model": "RTX 5070 Ti",
+      "card_manufacturer": "Gigabyte",
+      "series": "WINDFORCE OC SFF",
+      "full_card_name": "Gigabyte GeForce RTX 5070 Ti WINDFORCE OC SFF 16G",
+      "manufacturer_part_number": "GV-N507TWF3OC-16GD",
+      "upc": "889523048047",
+      "specs": {
+        "vram_gb": 16,
+        "memory_type": "GDDR7",
+        "memory_bus_bits": 256
+      },
+      "specs_status": "starter_reference_manufacturer_verification_pending"
+    }
+  ]
+}
