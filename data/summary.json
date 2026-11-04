@@ -1,25 +1,80 @@
 {
   "schema_version": "1.0",
-  "generated_at_utc": "2026-11-04T04:34:42Z",
-  "status": "collected",
+  "generated_at_utc": "2026-11-04T14:09:23Z",
+  "status": "partial",
+  "comparison_rule": "Previous successful observation of the exact same offer; no baseline yields null.",
   "comparisons": [
     {
-      "card_id": "gigabyte-rx9070xt-gaming-oc",
-      "lowest_current_eligible_price_usd": 999.99,
-      "previous_check_change_usd": null,
-      "baseline_status": "first_snapshot"
+      "listing_id": "microcenter-rx9070xt",
+      "price_usd": 1099.99,
+      "availability": "in_stock",
+      "previous_check_change_usd": 0.0
     },
     {
-      "card_id": "gigabyte-rtx5070ti-windforce-oc",
-      "lowest_current_eligible_price_usd": 1169.99,
-      "previous_check_change_usd": null,
-      "baseline_status": "first_snapshot"
+      "listing_id": "microcenter-rtx5070ti",
+      "price_usd": 1449.99,
+      "availability": "out_of_stock",
+      "previous_check_change_usd": 0.0
     },
     {
-      "card_id": "gigabyte-rtx5080-windforce-oc",
-      "lowest_current_eligible_price_usd": 1699.99,
-      "previous_check_change_usd": null,
-      "baseline_status": "first_snapshot"
+      "listing_id": "newegg-rx9070xt",
+      "price_usd": 999.99,
+      "availability": "in_stock",
+      "previous_check_change_usd": 0.0
+    },
+    {
+      "listing_id": "newegg-rtx5070ti",
+      "price_usd": null,
+      "availability": "unknown",
+      "previous_check_change_usd": null
+    },
+    {
+      "listing_id": "bestbuy-rx9070xt",
+      "price_usd": 1049.99,
+      "availability": "in_stock",
+      "previous_check_change_usd": 0.0
+    },
+    {
+      "listing_id": "bestbuy-rtx5070ti",
+      "price_usd": 1169.99,
+      "availability": "in_stock",
+      "previous_check_change_usd": 0.0
+    },
+    {
+      "listing_id": "bhphoto-rx9070xt",
+      "price_usd": 929.99,
+      "availability": "out_of_stock",
+      "previous_check_change_usd": 0.0
+    },
+    {
+      "listing_id": "bhphoto-rtx5070ti",
+      "price_usd": 1169.99,
+      "availability": "out_of_stock",
+      "previous_check_change_usd": 0.0
+    },
+    {
+      "listing_id": "microcenter-rtx5080",
+      "price_usd": 1979.99,
+      "availability": "in_stock",
+      "previous_check_change_usd": 0.0
+    },
+    {
+      "listing_id": "newegg-rtx5080",
+      "price_usd": 2099.99,
+      "availability": "out_of_stock",
+      "previous_check_change_usd": 0.0
+    },
+    {
+      "listing_id": "bestbuy-rtx5080",
+      "price_usd": 1699.99,
+      "availability": "in_stock",
+      "previous_check_change_usd": 0.0
+    },
+    {
+      "listing_id": "bhphoto-rtx5080",
+      "price_usd": 1699.99,
+      "availability": "out_of_stock",
+      "previous_check_change_usd": 0.0
     }
   ]
 }
