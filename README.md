@@ -4,9 +4,9 @@ Tracks GPU prices and availability across major retailers, preserves daily price
 
 ## Current status
 
-Repository scaffold. The starter catalog and watchlist are populated; configuration validation works. Retailer collection, history writing, summary generation, and website integration are not implemented yet. No daily collection is scheduled and no current prices are claimed.
+A manually reviewed, one-time direct retailer check was recorded on 2026-11-04 UTC (November 3 Central Time). The data includes 12 successful price observations, with stock status and individual check timestamps. The live dashboard is connected at https://raddata.dev/gpu-tracker.html. Automatic collection is not implemented or scheduled; `collection_enabled` remains false.
 
-The initial watchlist contains two exact Gigabyte models across Micro Center (Overland Park), Newegg, Best Buy, and B&H Photo. Amazon is excluded. URLs and starter specs come from the earlier feasibility test and need revalidation before enabling collection.
+The watchlist contains three exact Gigabyte models—RX 9070 XT GAMING OC, RTX 5070 Ti WINDFORCE OC SFF, and RTX 5080 WINDFORCE OC SFF—across Micro Center (Overland Park), Newegg, Best Buy, and B&H Photo. Amazon is excluded. The RTX 5080 specs were checked against Gigabyte's specification page. The other starter specs still need manufacturer verification.
 
 ## Layout
 
@@ -61,9 +61,9 @@ See [the data model](docs/data-model.md) for the field contract.
 ## Next steps
 
 - Implement and verify the four retailer adapters.
-- Add run IDs, append-safe history writing, and error handling.
+- Automate the existing observation contract with append-safe history writing and error handling.
 - Implement latest/summary generation and enable daily collection.
-- Connect the approved HTML/CSS/JavaScript design and SVG history chart in RadDadd/mywebsite.
+- Continue building price history from fresh checks; the first snapshot has no prior-price baseline.
 
 ## Credentials and licensing
 

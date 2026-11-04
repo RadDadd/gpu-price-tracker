@@ -1,6 +1,25 @@
 {
   "schema_version": "1.0",
-  "generated_at_utc": null,
-  "status": "not_collected",
-  "comparisons": []
+  "generated_at_utc": "2026-11-04T04:34:42Z",
+  "status": "collected",
+  "comparisons": [
+    {
+      "card_id": "gigabyte-rx9070xt-gaming-oc",
+      "lowest_current_eligible_price_usd": 999.99,
+      "previous_check_change_usd": null,
+      "baseline_status": "first_snapshot"
+    },
+    {
+      "card_id": "gigabyte-rtx5070ti-windforce-oc",
+      "lowest_current_eligible_price_usd": 1169.99,
+      "previous_check_change_usd": null,
+      "baseline_status": "first_snapshot"
+    },
+    {
+      "card_id": "gigabyte-rtx5080-windforce-oc",
+      "lowest_current_eligible_price_usd": 1699.99,
+      "previous_check_change_usd": null,
+      "baseline_status": "first_snapshot"
+    }
+  ]
 }

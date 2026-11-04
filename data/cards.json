@@ -32,6 +32,27 @@
         "memory_bus_bits": 256
       },
       "specs_status": "starter_reference_manufacturer_verification_pending"
+    },
+    {
+      "card_id": "gigabyte-rtx5080-windforce-oc",
+      "gpu_manufacturer": "NVIDIA",
+      "gpu_model": "RTX 5080",
+      "card_manufacturer": "Gigabyte",
+      "series": "WINDFORCE OC SFF",
+      "full_card_name": "Gigabyte GeForce RTX 5080 WINDFORCE OC SFF 16G",
+      "manufacturer_part_number": "GV-N5080WF3OC-16GD",
+      "upc": "889523048528",
+      "specs": {
+        "vram_gb": 16,
+        "memory_type": "GDDR7",
+        "memory_bus_bits": 256,
+        "core_count": 10752,
+        "core_type": "CUDA cores",
+        "boost_clock_mhz": 2670,
+        "recommended_psu_w": 850
+      },
+      "specs_status": "manufacturer_verified",
+      "specs_source_url": "https://www.gigabyte.com/sg/Graphics-Card/GV-N5080WF3OC-16GD/sp"
     }
   ]
 }

@@ -112,6 +112,42 @@
       "product_url": "https://www.bhphotovideo.com/c/product/1879575-REG/gigabyte_gv_n507twf3oc_16gd_geforce_rtx_5070_ti.html",
       "condition": "new",
       "enabled": true
+    },
+    {
+      "listing_id": "microcenter-rtx5080",
+      "card_id": "gigabyte-rtx5080-windforce-oc",
+      "retailer_id": "microcenter",
+      "retailer_sku": "805440",
+      "product_url": "https://www.microcenter.com/product/690477/gigabyte-nvidia-geforce-rtx-5080-windforce-sff-overclocked-triple-fan-16gb-gddr7-pcie-50-graphics-card?storeid=191",
+      "condition": "new",
+      "enabled": true
+    },
+    {
+      "listing_id": "newegg-rtx5080",
+      "card_id": "gigabyte-rtx5080-windforce-oc",
+      "retailer_id": "newegg",
+      "retailer_sku": "N82E16814932754",
+      "product_url": "https://www.newegg.com/p/N82E16814932754",
+      "condition": "new",
+      "enabled": true
+    },
+    {
+      "listing_id": "bestbuy-rtx5080",
+      "card_id": "gigabyte-rtx5080-windforce-oc",
+      "retailer_id": "bestbuy",
+      "retailer_sku": "6616102",
+      "product_url": "https://www.bestbuy.com/product/gigabyte-nvidia-geforce-rtx-5080-windforce-oc-sff-16g-gddr7-pci-express-5-0-graphics-card-black/6616102",
+      "condition": "new",
+      "enabled": true
+    },
+    {
+      "listing_id": "bhphoto-rtx5080",
+      "card_id": "gigabyte-rtx5080-windforce-oc",
+      "retailer_id": "bhphoto",
+      "retailer_sku": "GIGVN5080WF3",
+      "product_url": "https://www.bhphotovideo.com/c/product/1875716-REG/gigabyte_gv_n5080wf3oc_16gd_geforce_rtx_5080_windforce.html",
+      "condition": "new",
+      "enabled": true
     }
   ]
 }
