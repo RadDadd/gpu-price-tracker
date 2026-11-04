@@ -148,6 +148,150 @@
       "product_url": "https://www.bhphotovideo.com/c/product/1875716-REG/gigabyte_gv_n5080wf3oc_16gd_geforce_rtx_5080_windforce.html",
       "condition": "new",
       "enabled": true
+    },
+    {
+      "listing_id": "microcenter-rtx5060",
+      "card_id": "gigabyte-rtx5060-windforce-oc",
+      "retailer_id": "microcenter",
+      "retailer_sku": "869545",
+      "product_url": "https://www.microcenter.com/product/695971/gigabyte-nvidia-geforce-rtx-5060-windforce-overclocked-dual-fan-8gb-gddr7-pcie-50-graphics-card?storeid=191",
+      "condition": "new",
+      "enabled": true
+    },
+    {
+      "listing_id": "newegg-rtx5060",
+      "card_id": "gigabyte-rtx5060-windforce-oc",
+      "retailer_id": "newegg",
+      "retailer_sku": "N82E16814932804",
+      "product_url": "https://www.newegg.com/p/N82E16814932804",
+      "condition": "new",
+      "enabled": true
+    },
+    {
+      "listing_id": "bestbuy-rtx5060",
+      "card_id": "gigabyte-rtx5060-windforce-oc",
+      "retailer_id": "bestbuy",
+      "retailer_sku": "6632708",
+      "product_url": "https://www.bestbuy.com/product/gigabyte-geforce-rtx-5060-windforce-oc-8g-graphics-card-8gb-128-bit-gddr7-pcie-5-0-windforce-cooling-system-black/J3ZW9X7388/sku/6632708",
+      "condition": "new",
+      "enabled": true
+    },
+    {
+      "listing_id": "bhphoto-rtx5060",
+      "card_id": "gigabyte-rtx5060-windforce-oc",
+      "retailer_id": "bhphoto",
+      "retailer_sku": "GIN5060W2OC8",
+      "product_url": "https://www.bhphotovideo.com/c/product/1895216-REG/gigabyte_gv_n5060wf2oc_8gd_geforce_rtx_5060_windforce.html",
+      "condition": "new",
+      "enabled": true
+    },
+    {
+      "listing_id": "microcenter-rtx5060ti",
+      "card_id": "gigabyte-rtx5060ti-windforce-oc",
+      "retailer_id": "microcenter",
+      "retailer_sku": "854430",
+      "product_url": "https://www.microcenter.com/product/694739/gigabyte-nvidia-geforce-rtx-5060-ti-windforce-overclocked-dual-fan-16gb-gddr7-pcie-50-graphics-card?storeid=191",
+      "condition": "new",
+      "enabled": true
+    },
+    {
+      "listing_id": "newegg-rtx5060ti",
+      "card_id": "gigabyte-rtx5060ti-windforce-oc",
+      "retailer_id": "newegg",
+      "retailer_sku": "N82E16814932790",
+      "product_url": "https://www.newegg.com/p/N82E16814932790",
+      "condition": "new",
+      "enabled": true
+    },
+    {
+      "listing_id": "bestbuy-rtx5060ti",
+      "card_id": "gigabyte-rtx5060ti-windforce-oc",
+      "retailer_id": "bestbuy",
+      "retailer_sku": "6629363",
+      "product_url": "https://www.bestbuy.com/product/gigabyte-nvidia-geforce-rtx-5060-ti-windforce-oc-16g-gddr7-pci-express-5-0-graphics-card-black/6629363",
+      "condition": "new",
+      "enabled": true
+    },
+    {
+      "listing_id": "bhphoto-rtx5060ti",
+      "card_id": "gigabyte-rtx5060ti-windforce-oc",
+      "retailer_id": "bhphoto",
+      "retailer_sku": "GIN506TW2O16",
+      "product_url": "https://www.bhphotovideo.com/c/product/1892387-REG/gigabyte_gv_n506twf2oc_16gd_geforce_rtx_5060_ti.html",
+      "condition": "new",
+      "enabled": true
+    },
+    {
+      "listing_id": "microcenter-rtx5070",
+      "card_id": "gigabyte-rtx5070-windforce-oc",
+      "retailer_id": "microcenter",
+      "retailer_sku": "813972",
+      "product_url": "https://www.microcenter.com/product/691231/gigabyte-nvidia-geforce-rtx-5070-windforce-sff-oc-triple-fan-12gb-gddr7-pcie-50-graphics-card?storeid=191",
+      "condition": "new",
+      "enabled": true
+    },
+    {
+      "listing_id": "newegg-rtx5070",
+      "card_id": "gigabyte-rtx5070-windforce-oc",
+      "retailer_id": "newegg",
+      "retailer_sku": "N82E16814932777",
+      "product_url": "https://www.newegg.com/p/N82E16814932777",
+      "condition": "new",
+      "enabled": true
+    },
+    {
+      "listing_id": "bestbuy-rtx5070",
+      "card_id": "gigabyte-rtx5070-windforce-oc",
+      "retailer_id": "bestbuy",
+      "retailer_sku": "6621265",
+      "product_url": "https://www.bestbuy.com/product/gigabyte-nvidia-geforce-rtx-5070-windforce-oc-sff-12g-gddr7-pci-express-5-0-graphics-card-black/J3ZW9X7CCH/sku/6621265",
+      "condition": "new",
+      "enabled": true
+    },
+    {
+      "listing_id": "bhphoto-rtx5070",
+      "card_id": "gigabyte-rtx5070-windforce-oc",
+      "retailer_id": "bhphoto",
+      "retailer_sku": "GIN5070W3O12",
+      "product_url": "https://www.bhphotovideo.com/c/product/1882292-REG/gigabyte_gv_n5070wf3oc_12gd_geforce_rtx_5070_windforce.html",
+      "condition": "new",
+      "enabled": true
+    },
+    {
+      "listing_id": "microcenter-rx9060xt",
+      "card_id": "gigabyte-rx9060xt-gaming-oc",
+      "retailer_id": "microcenter",
+      "retailer_sku": "873505",
+      "product_url": "https://www.microcenter.com/product/696371/gigabyte-amd-radeon-rx-9060-xt-gaming-overclocked-triple-fan-16gb-gddr6-pcie-50-graphics-card?storeid=191",
+      "condition": "new",
+      "enabled": true
+    },
+    {
+      "listing_id": "newegg-rx9060xt",
+      "card_id": "gigabyte-rx9060xt-gaming-oc",
+      "retailer_id": "newegg",
+      "retailer_sku": "N82E16814932806",
+      "product_url": "https://www.newegg.com/p/N82E16814932806",
+      "condition": "new",
+      "enabled": true
+    },
+    {
+      "listing_id": "bestbuy-rx9060xt",
+      "card_id": "gigabyte-rx9060xt-gaming-oc",
+      "retailer_id": "bestbuy",
+      "retailer_sku": "6633162",
+      "product_url": "https://www.bestbuy.com/product/gigabyte-radeon-rx-9060-xt-gaming-oc-16g-gddr6-pci-express-5-0-graphics-card-black/6633162",
+      "condition": "new",
+      "enabled": true
+    },
+    {
+      "listing_id": "bhphoto-rx9060xt",
+      "card_id": "gigabyte-rx9060xt-gaming-oc",
+      "retailer_id": "bhphoto",
+      "retailer_sku": "GIR9060XTG16",
+      "product_url": "https://www.bhphotovideo.com/c/product/1896600-REG/gigabyte_gv_r9060xtgaming_oc_16gd_radeon_rx_9060_xt.html",
+      "condition": "new",
+      "enabled": true
     }
   ]
 }

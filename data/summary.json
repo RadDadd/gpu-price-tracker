@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at_utc": "2026-11-04T14:09:23Z",
+  "generated_at_utc": "2026-11-04T17:59:23Z",
   "status": "partial",
   "comparison_rule": "Previous successful observation of the exact same offer; no baseline yields null.",
   "comparisons": [
@@ -75,6 +75,102 @@
       "price_usd": 1699.99,
       "availability": "out_of_stock",
       "previous_check_change_usd": 0.0
+    },
+    {
+      "listing_id": "microcenter-rtx5060",
+      "price_usd": 499.99,
+      "availability": "in_stock",
+      "previous_check_change_usd": null
+    },
+    {
+      "listing_id": "newegg-rtx5060",
+      "price_usd": 499.99,
+      "availability": "in_stock",
+      "previous_check_change_usd": null
+    },
+    {
+      "listing_id": "bestbuy-rtx5060",
+      "price_usd": 459.99,
+      "availability": "in_stock",
+      "previous_check_change_usd": null
+    },
+    {
+      "listing_id": "bhphoto-rtx5060",
+      "price_usd": 499.99,
+      "availability": "out_of_stock",
+      "previous_check_change_usd": null
+    },
+    {
+      "listing_id": "microcenter-rtx5060ti",
+      "price_usd": 829.99,
+      "availability": "in_stock",
+      "previous_check_change_usd": null
+    },
+    {
+      "listing_id": "newegg-rtx5060ti",
+      "price_usd": 829.99,
+      "availability": "in_stock",
+      "previous_check_change_usd": null
+    },
+    {
+      "listing_id": "bestbuy-rtx5060ti",
+      "price_usd": 799.99,
+      "availability": "in_stock",
+      "previous_check_change_usd": null
+    },
+    {
+      "listing_id": "bhphoto-rtx5060ti",
+      "price_usd": 829.99,
+      "availability": "out_of_stock",
+      "previous_check_change_usd": null
+    },
+    {
+      "listing_id": "microcenter-rtx5070",
+      "price_usd": 839.99,
+      "availability": "out_of_stock",
+      "previous_check_change_usd": null
+    },
+    {
+      "listing_id": "newegg-rtx5070",
+      "price_usd": null,
+      "availability": "unknown",
+      "previous_check_change_usd": null
+    },
+    {
+      "listing_id": "bestbuy-rtx5070",
+      "price_usd": 799.99,
+      "availability": "in_stock",
+      "previous_check_change_usd": null
+    },
+    {
+      "listing_id": "bhphoto-rtx5070",
+      "price_usd": 839.99,
+      "availability": "out_of_stock",
+      "previous_check_change_usd": null
+    },
+    {
+      "listing_id": "microcenter-rx9060xt",
+      "price_usd": 799.99,
+      "availability": "in_stock",
+      "previous_check_change_usd": null
+    },
+    {
+      "listing_id": "newegg-rx9060xt",
+      "price_usd": 759.99,
+      "availability": "in_stock",
+      "previous_check_change_usd": null
+    },
+    {
+      "listing_id": "bestbuy-rx9060xt",
+      "price_usd": 759.99,
+      "availability": "in_stock",
+      "previous_check_change_usd": null
+    },
+    {
+      "listing_id": "bhphoto-rx9060xt",
+      "price_usd": 759.99,
+      "availability": "out_of_stock",
+      "previous_check_change_usd": null
     }
   ]
 }

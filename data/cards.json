@@ -59,6 +59,82 @@
       },
       "specs_status": "manufacturer_verified",
       "specs_source_url": "https://www.gigabyte.com/sg/Graphics-Card/GV-N5080WF3OC-16GD/sp"
+    },
+    {
+      "card_id": "gigabyte-rtx5060-windforce-oc",
+      "gpu_manufacturer": "NVIDIA",
+      "gpu_model": "RTX 5060",
+      "card_manufacturer": "Gigabyte",
+      "series": "WINDFORCE OC",
+      "full_card_name": "Gigabyte GeForce RTX 5060 WINDFORCE OC 8G",
+      "manufacturer_part_number": "GV-N5060WF2OC-8GD",
+      "upc": "889523050156",
+      "specs": {
+        "vram_gb": 8,
+        "memory_type": "GDDR7",
+        "memory_bus_bits": 128,
+        "core_count": 3840,
+        "core_type": "CUDA cores"
+      },
+      "specs_status": "manufacturer_verified",
+      "specs_source_url": "https://www.gigabyte.com/Graphics-Card/GV-N5060WF2OC-8GD/sp"
+    },
+    {
+      "card_id": "gigabyte-rtx5060ti-windforce-oc",
+      "gpu_manufacturer": "NVIDIA",
+      "gpu_model": "RTX 5060 Ti",
+      "card_manufacturer": "Gigabyte",
+      "series": "WINDFORCE OC",
+      "full_card_name": "Gigabyte GeForce RTX 5060 Ti WINDFORCE OC 16G",
+      "manufacturer_part_number": "GV-N506TWF2OC-16GD",
+      "upc": "889523049372",
+      "specs": {
+        "vram_gb": 16,
+        "memory_type": "GDDR7",
+        "memory_bus_bits": 128,
+        "core_count": 4608,
+        "core_type": "CUDA cores"
+      },
+      "specs_status": "manufacturer_verified",
+      "specs_source_url": "https://www.gigabyte.com/Graphics-Card/GV-N506TWF2OC-16GD/sp"
+    },
+    {
+      "card_id": "gigabyte-rtx5070-windforce-oc",
+      "gpu_manufacturer": "NVIDIA",
+      "gpu_model": "RTX 5070",
+      "card_manufacturer": "Gigabyte",
+      "series": "WINDFORCE OC SFF",
+      "full_card_name": "Gigabyte GeForce RTX 5070 WINDFORCE OC SFF 12G",
+      "manufacturer_part_number": "GV-N5070WF3OC-12GD",
+      "upc": "889523048191",
+      "specs": {
+        "vram_gb": 12,
+        "memory_type": "GDDR7",
+        "memory_bus_bits": 192,
+        "core_count": 6144,
+        "core_type": "CUDA cores"
+      },
+      "specs_status": "manufacturer_verified",
+      "specs_source_url": "https://www.gigabyte.com/Graphics-Card/GV-N5070WF3OC-12GD/sp"
+    },
+    {
+      "card_id": "gigabyte-rx9060xt-gaming-oc",
+      "gpu_manufacturer": "AMD",
+      "gpu_model": "RX 9060 XT",
+      "card_manufacturer": "Gigabyte",
+      "series": "GAMING OC",
+      "full_card_name": "Gigabyte Radeon RX 9060 XT GAMING OC 16G",
+      "manufacturer_part_number": "GV-R9060XTGAMING OC-16GD",
+      "upc": "889523049761",
+      "specs": {
+        "vram_gb": 16,
+        "memory_type": "GDDR6",
+        "memory_bus_bits": 128,
+        "core_count": 2048,
+        "core_type": "stream processors"
+      },
+      "specs_status": "manufacturer_verified",
+      "specs_source_url": "https://www.gigabyte.com/Graphics-Card/GV-R9060XTGAMING-OC-16GD/sp"
     }
   ]
 }
