@@ -1,18 +1,18 @@
 {
   "schema_version": "1.0",
-  "generated_at_utc": "2026-11-04T17:59:23Z",
+  "generated_at_utc": "2026-11-05T13:16:51Z",
   "status": "partial",
   "listings": [
     {
       "listing_id": "microcenter-rx9070xt",
-      "last_attempt_at_utc": "2026-11-04T14:08:06Z",
+      "last_attempt_at_utc": "2026-11-05T13:14:54Z",
       "last_attempt_status": "success",
       "stale": false,
       "last_successful_observation": {
-        "observation_id": "manual-20261104T140923Z-6c5fc664:microcenter-rx9070xt",
-        "run_id": "manual-20261104T140923Z-6c5fc664",
-        "listing_id": "microcenter-rx9070xt",
+        "observation_id": "scheduled-20261105T131651Z-fed96a00:microcenter-rx9070xt",
+        "run_id": "scheduled-20261105T131651Z-fed96a00",
         "offer_id": "offer-fe9af3c28f8b0567402b",
+        "listing_id": "microcenter-rx9070xt",
         "card_id": "gigabyte-rx9070xt-gaming-oc",
         "retailer_id": "microcenter",
         "retailer_sku": "799841",
@@ -20,9 +20,10 @@
         "seller": "Micro Center",
         "condition": "new",
         "location": "Overland Park, KS",
-        "attempted_at_utc": "2026-11-04T14:08:06Z",
-        "price_checked_at_utc": "2026-11-04T14:08:12Z",
+        "attempted_at_utc": "2026-11-05T13:14:54Z",
+        "price_checked_at_utc": "2026-11-05T13:15:01Z",
         "collection_status": "success",
+        "price_usd": 1099.99,
         "currency": "USD",
         "shipping_usd": null,
         "shipping_status": "pickup_only",
@@ -31,25 +32,21 @@
         "availability": "in_stock",
         "stock_quantity_display": "25+",
         "fulfillment": "pickup",
-        "extraction_method": "manual_reviewed_direct_http_product_jsonld",
+        "extraction_method": "direct_http_validated_product_offer_v1",
         "error": null,
-        "source_sha256": "d1404a1430b14e1f15459f4a6340875b4d303c6f96631f5a7f9a92d84084ee87",
-        "notes": [
-          "Overland Park store offer; exact card matched by UPC and retailer SKU."
-        ],
-        "price_usd": 1099.99
+        "source_sha256": "4623df0c466eeccc34f1d3e4e597eb506cb4c46a2c5d74bc64187d6c6b94383b"
       }
     },
     {
       "listing_id": "microcenter-rtx5070ti",
-      "last_attempt_at_utc": "2026-11-04T14:08:06Z",
+      "last_attempt_at_utc": "2026-11-05T13:14:54Z",
       "last_attempt_status": "success",
       "stale": false,
       "last_successful_observation": {
-        "observation_id": "manual-20261104T140923Z-6c5fc664:microcenter-rtx5070ti",
-        "run_id": "manual-20261104T140923Z-6c5fc664",
-        "listing_id": "microcenter-rtx5070ti",
+        "observation_id": "scheduled-20261105T131651Z-fed96a00:microcenter-rtx5070ti",
+        "run_id": "scheduled-20261105T131651Z-fed96a00",
         "offer_id": "offer-a2abb5e18df7a38c9f8d",
+        "listing_id": "microcenter-rtx5070ti",
         "card_id": "gigabyte-rtx5070ti-windforce-oc",
         "retailer_id": "microcenter",
         "retailer_sku": "813949",
@@ -57,9 +54,10 @@
         "seller": "Micro Center",
         "condition": "new",
         "location": "Overland Park, KS",
-        "attempted_at_utc": "2026-11-04T14:08:06Z",
-        "price_checked_at_utc": "2026-11-04T14:08:12Z",
+        "attempted_at_utc": "2026-11-05T13:14:54Z",
+        "price_checked_at_utc": "2026-11-05T13:15:01Z",
         "collection_status": "success",
+        "price_usd": 1449.99,
         "currency": "USD",
         "shipping_usd": null,
         "shipping_status": "pickup_only",
@@ -68,25 +66,21 @@
         "availability": "out_of_stock",
         "stock_quantity_display": null,
         "fulfillment": "pickup",
-        "extraction_method": "manual_reviewed_direct_http_product_jsonld",
+        "extraction_method": "direct_http_validated_product_offer_v1",
         "error": null,
-        "source_sha256": "f3bea184e516a77f9585a3fde8b5f959f5d063f67446537d368ef663695b2454",
-        "notes": [
-          "Overland Park store offer; exact card matched by UPC and retailer SKU."
-        ],
-        "price_usd": 1449.99
+        "source_sha256": "246bd39397bf2a54c99fc741633065dd4fc23984ee033719d8cf687dc3038e21"
       }
     },
     {
       "listing_id": "newegg-rx9070xt",
-      "last_attempt_at_utc": "2026-11-04T14:08:06Z",
+      "last_attempt_at_utc": "2026-11-05T13:14:54Z",
       "last_attempt_status": "success",
       "stale": false,
       "last_successful_observation": {
-        "observation_id": "manual-20261104T140923Z-6c5fc664:newegg-rx9070xt",
-        "run_id": "manual-20261104T140923Z-6c5fc664",
-        "listing_id": "newegg-rx9070xt",
+        "observation_id": "scheduled-20261105T131651Z-fed96a00:newegg-rx9070xt",
+        "run_id": "scheduled-20261105T131651Z-fed96a00",
         "offer_id": "offer-6d8fa25b91da21af55d7",
+        "listing_id": "newegg-rx9070xt",
         "card_id": "gigabyte-rx9070xt-gaming-oc",
         "retailer_id": "newegg",
         "retailer_sku": "N82E16814932751",
@@ -94,36 +88,38 @@
         "seller": "Newegg",
         "condition": "new",
         "location": null,
-        "attempted_at_utc": "2026-11-04T14:08:06Z",
-        "price_checked_at_utc": "2026-11-04T14:08:19Z",
+        "attempted_at_utc": "2026-11-05T13:14:54Z",
+        "price_checked_at_utc": "2026-11-05T13:15:03Z",
         "collection_status": "success",
+        "price_usd": 999.99,
         "currency": "USD",
         "shipping_usd": null,
         "shipping_status": "unknown",
         "coupon": null,
-        "rebate": null,
+        "rebate": {
+          "type": "instant",
+          "amount_usd": 60,
+          "terms": "Already included in the advertised item price; do not deduct again."
+        },
         "availability": "in_stock",
         "stock_quantity_display": null,
         "fulfillment": "unknown",
-        "extraction_method": "manual_reviewed_direct_http_main_buybox_and_matching_item_stock",
+        "extraction_method": "direct_http_validated_product_offer_v1",
         "error": null,
-        "source_sha256": "339c67f6fd2691de0211aa4efd8b11c0cb312a48e765094223153b7064ea45ad",
-        "notes": [
-          "Exact MPN in main heading; Newegg seller in main buy box. Shipping charge not verified."
-        ],
-        "price_usd": 999.99
+        "source_sha256": "2862b3c0abfb2b6136cc6711a15b18b59e25998f78274f41a83852c3921d922f",
+        "observed_seller": "Newegg"
       }
     },
     {
       "listing_id": "newegg-rtx5070ti",
-      "last_attempt_at_utc": "2026-11-04T14:08:06Z",
-      "last_attempt_status": "identity_mismatch",
-      "stale": true,
+      "last_attempt_at_utc": "2026-11-05T13:14:54Z",
+      "last_attempt_status": "success",
+      "stale": false,
       "last_successful_observation": {
-        "observation_id": "manual-20261104T043441Z-d037b669:newegg-rtx5070ti",
-        "run_id": "manual-20261104T043441Z-d037b669",
-        "listing_id": "newegg-rtx5070ti",
+        "observation_id": "scheduled-20261105T131651Z-fed96a00:newegg-rtx5070ti",
+        "run_id": "scheduled-20261105T131651Z-fed96a00",
         "offer_id": "offer-8c47565f086db0696434",
+        "listing_id": "newegg-rtx5070ti",
         "card_id": "gigabyte-rtx5070ti-windforce-oc",
         "retailer_id": "newegg",
         "retailer_sku": "N82E16814932771",
@@ -131,9 +127,10 @@
         "seller": "Newegg",
         "condition": "new",
         "location": null,
-        "attempted_at_utc": "2026-11-04T04:33:10Z",
-        "price_checked_at_utc": "2026-11-04T04:33:22Z",
+        "attempted_at_utc": "2026-11-05T13:14:54Z",
+        "price_checked_at_utc": "2026-11-05T13:15:03Z",
         "collection_status": "success",
+        "price_usd": 1439.99,
         "currency": "USD",
         "shipping_usd": null,
         "shipping_status": "unknown",
@@ -142,25 +139,22 @@
         "availability": "in_stock",
         "stock_quantity_display": null,
         "fulfillment": "unknown",
-        "extraction_method": "manual_reviewed_direct_http_main_buybox_and_matching_item_stock",
+        "extraction_method": "direct_http_validated_product_offer_v1",
         "error": null,
-        "source_sha256": "5d08da3f4fcddb3eea1fd31d26bf849fa7640b6361fb06afbdc4a9efca13445d",
-        "notes": [
-          "Exact MPN in main heading; Newegg seller in main buy box. Shipping charge not verified."
-        ],
-        "price_usd": 1439.99
+        "source_sha256": "ea1d29862e7e02bb5ba0d486afe9ae8792965790cf6c8bb0539b5c342fdff26f",
+        "observed_seller": "Newegg"
       }
     },
     {
       "listing_id": "bestbuy-rx9070xt",
-      "last_attempt_at_utc": "2026-11-04T14:08:12Z",
+      "last_attempt_at_utc": "2026-11-05T13:15:01Z",
       "last_attempt_status": "success",
       "stale": false,
       "last_successful_observation": {
-        "observation_id": "manual-20261104T140923Z-6c5fc664:bestbuy-rx9070xt",
-        "run_id": "manual-20261104T140923Z-6c5fc664",
-        "listing_id": "bestbuy-rx9070xt",
+        "observation_id": "scheduled-20261105T131651Z-fed96a00:bestbuy-rx9070xt",
+        "run_id": "scheduled-20261105T131651Z-fed96a00",
         "offer_id": "offer-6839e1da3703f7ad216f",
+        "listing_id": "bestbuy-rx9070xt",
         "card_id": "gigabyte-rx9070xt-gaming-oc",
         "retailer_id": "bestbuy",
         "retailer_sku": "6617866",
@@ -168,9 +162,10 @@
         "seller": "Best Buy",
         "condition": "new",
         "location": null,
-        "attempted_at_utc": "2026-11-04T14:08:12Z",
-        "price_checked_at_utc": "2026-11-04T14:08:20Z",
+        "attempted_at_utc": "2026-11-05T13:15:01Z",
+        "price_checked_at_utc": "2026-11-05T13:15:09Z",
         "collection_status": "success",
+        "price_usd": 1049.99,
         "currency": "USD",
         "shipping_usd": null,
         "shipping_status": "unknown",
@@ -179,25 +174,21 @@
         "availability": "in_stock",
         "stock_quantity_display": null,
         "fulfillment": "unknown",
-        "extraction_method": "manual_reviewed_direct_http_product_jsonld",
+        "extraction_method": "direct_http_validated_product_offer_v1",
         "error": null,
-        "source_sha256": "35fd245d4846d51814e3da512b7fd5e0cc3e4ca3e5f03156275ce10e161ee48d",
-        "notes": [
-          "New offer sold by Best Buy only; local pickup and delivery eligibility not verified."
-        ],
-        "price_usd": 1049.99
+        "source_sha256": "7d469f44ed4b7e8153ac1d5cf8439c4ca7371abdbd21fc29ece49046afb197b4"
       }
     },
     {
       "listing_id": "bestbuy-rtx5070ti",
-      "last_attempt_at_utc": "2026-11-04T14:08:12Z",
+      "last_attempt_at_utc": "2026-11-05T13:15:01Z",
       "last_attempt_status": "success",
       "stale": false,
       "last_successful_observation": {
-        "observation_id": "manual-20261104T140923Z-6c5fc664:bestbuy-rtx5070ti",
-        "run_id": "manual-20261104T140923Z-6c5fc664",
-        "listing_id": "bestbuy-rtx5070ti",
+        "observation_id": "scheduled-20261105T131651Z-fed96a00:bestbuy-rtx5070ti",
+        "run_id": "scheduled-20261105T131651Z-fed96a00",
         "offer_id": "offer-337681a192c05a91bfa6",
+        "listing_id": "bestbuy-rtx5070ti",
         "card_id": "gigabyte-rtx5070ti-windforce-oc",
         "retailer_id": "bestbuy",
         "retailer_sku": "6618883",
@@ -205,9 +196,10 @@
         "seller": "Best Buy",
         "condition": "new",
         "location": null,
-        "attempted_at_utc": "2026-11-04T14:08:12Z",
-        "price_checked_at_utc": "2026-11-04T14:08:20Z",
+        "attempted_at_utc": "2026-11-05T13:15:01Z",
+        "price_checked_at_utc": "2026-11-05T13:15:09Z",
         "collection_status": "success",
+        "price_usd": 1169.99,
         "currency": "USD",
         "shipping_usd": null,
         "shipping_status": "unknown",
@@ -216,25 +208,21 @@
         "availability": "in_stock",
         "stock_quantity_display": null,
         "fulfillment": "unknown",
-        "extraction_method": "manual_reviewed_direct_http_product_jsonld",
+        "extraction_method": "direct_http_validated_product_offer_v1",
         "error": null,
-        "source_sha256": "2615a59f434f1ad2563776a223d48a58480ecaf1d69171486786a4c81ba30769",
-        "notes": [
-          "New offer sold by Best Buy only; local pickup and delivery eligibility not verified."
-        ],
-        "price_usd": 1169.99
+        "source_sha256": "439b46768c05b2d3b10ee26a126ac9b2e9030a71005530ca5feeccf61651d1be"
       }
     },
     {
       "listing_id": "bhphoto-rx9070xt",
-      "last_attempt_at_utc": "2026-11-04T14:08:19Z",
+      "last_attempt_at_utc": "2026-11-05T13:15:03Z",
       "last_attempt_status": "success",
       "stale": false,
       "last_successful_observation": {
-        "observation_id": "manual-20261104T140923Z-6c5fc664:bhphoto-rx9070xt",
-        "run_id": "manual-20261104T140923Z-6c5fc664",
-        "listing_id": "bhphoto-rx9070xt",
+        "observation_id": "scheduled-20261105T131651Z-fed96a00:bhphoto-rx9070xt",
+        "run_id": "scheduled-20261105T131651Z-fed96a00",
         "offer_id": "offer-697d44306c841ab7881b",
+        "listing_id": "bhphoto-rx9070xt",
         "card_id": "gigabyte-rx9070xt-gaming-oc",
         "retailer_id": "bhphoto",
         "retailer_sku": "GIR9070XTG16",
@@ -242,9 +230,10 @@
         "seller": "B&H Photo",
         "condition": "new",
         "location": null,
-        "attempted_at_utc": "2026-11-04T14:08:19Z",
-        "price_checked_at_utc": "2026-11-04T14:08:24Z",
+        "attempted_at_utc": "2026-11-05T13:15:03Z",
+        "price_checked_at_utc": "2026-11-05T13:15:08Z",
         "collection_status": "success",
+        "price_usd": 929.99,
         "currency": "USD",
         "shipping_usd": null,
         "shipping_status": "unknown",
@@ -253,25 +242,21 @@
         "availability": "out_of_stock",
         "stock_quantity_display": null,
         "fulfillment": "unknown",
-        "extraction_method": "manual_reviewed_direct_http_product_jsonld",
+        "extraction_method": "direct_http_validated_product_offer_v1",
         "error": null,
-        "source_sha256": "e31666e96a31bcd200185ea9eb042d3c270adb5bd0e3aae761df7a19fc0d9064",
-        "notes": [
-          "Direct B&H product offer; out-of-stock prices are retained but excluded from available-price comparisons."
-        ],
-        "price_usd": 929.99
+        "source_sha256": "dc47a2788bd258dfc8cad5fbef0aaa551a571859f6c4789ac6f7631aa74fb6a2"
       }
     },
     {
       "listing_id": "bhphoto-rtx5070ti",
-      "last_attempt_at_utc": "2026-11-04T14:08:19Z",
+      "last_attempt_at_utc": "2026-11-05T13:15:03Z",
       "last_attempt_status": "success",
       "stale": false,
       "last_successful_observation": {
-        "observation_id": "manual-20261104T140923Z-6c5fc664:bhphoto-rtx5070ti",
-        "run_id": "manual-20261104T140923Z-6c5fc664",
-        "listing_id": "bhphoto-rtx5070ti",
+        "observation_id": "scheduled-20261105T131651Z-fed96a00:bhphoto-rtx5070ti",
+        "run_id": "scheduled-20261105T131651Z-fed96a00",
         "offer_id": "offer-43528ad02be346b554ff",
+        "listing_id": "bhphoto-rtx5070ti",
         "card_id": "gigabyte-rtx5070ti-windforce-oc",
         "retailer_id": "bhphoto",
         "retailer_sku": "GIN507TWF3OC",
@@ -279,9 +264,10 @@
         "seller": "B&H Photo",
         "condition": "new",
         "location": null,
-        "attempted_at_utc": "2026-11-04T14:08:19Z",
-        "price_checked_at_utc": "2026-11-04T14:08:24Z",
+        "attempted_at_utc": "2026-11-05T13:15:03Z",
+        "price_checked_at_utc": "2026-11-05T13:15:08Z",
         "collection_status": "success",
+        "price_usd": 1169.99,
         "currency": "USD",
         "shipping_usd": null,
         "shipping_status": "unknown",
@@ -290,25 +276,21 @@
         "availability": "out_of_stock",
         "stock_quantity_display": null,
         "fulfillment": "unknown",
-        "extraction_method": "manual_reviewed_direct_http_product_jsonld",
+        "extraction_method": "direct_http_validated_product_offer_v1",
         "error": null,
-        "source_sha256": "ccb3ac64868f209d447f1d86928934a2b3a7660d048db9da5ac4616933ea2c2e",
-        "notes": [
-          "Direct B&H product offer; out-of-stock prices are retained but excluded from available-price comparisons."
-        ],
-        "price_usd": 1169.99
+        "source_sha256": "d20d45b4965d8ba73586c46740f376dbcae2a7ceef7ef9885d29952ce2d54739"
       }
     },
     {
       "listing_id": "microcenter-rtx5080",
-      "last_attempt_at_utc": "2026-11-04T14:08:20Z",
+      "last_attempt_at_utc": "2026-11-05T13:15:08Z",
       "last_attempt_status": "success",
       "stale": false,
       "last_successful_observation": {
-        "observation_id": "manual-20261104T140923Z-6c5fc664:microcenter-rtx5080",
-        "run_id": "manual-20261104T140923Z-6c5fc664",
-        "listing_id": "microcenter-rtx5080",
+        "observation_id": "scheduled-20261105T131651Z-fed96a00:microcenter-rtx5080",
+        "run_id": "scheduled-20261105T131651Z-fed96a00",
         "offer_id": "offer-3dfe38e3e33f48452cda",
+        "listing_id": "microcenter-rtx5080",
         "card_id": "gigabyte-rtx5080-windforce-oc",
         "retailer_id": "microcenter",
         "retailer_sku": "805440",
@@ -316,9 +298,10 @@
         "seller": "Micro Center",
         "condition": "new",
         "location": "Overland Park, KS",
-        "attempted_at_utc": "2026-11-04T14:08:20Z",
-        "price_checked_at_utc": "2026-11-04T14:08:25Z",
+        "attempted_at_utc": "2026-11-05T13:15:08Z",
+        "price_checked_at_utc": "2026-11-05T13:15:12Z",
         "collection_status": "success",
+        "price_usd": 1979.99,
         "currency": "USD",
         "shipping_usd": null,
         "shipping_status": "pickup_only",
@@ -327,25 +310,21 @@
         "availability": "in_stock",
         "stock_quantity_display": "25+",
         "fulfillment": "pickup",
-        "extraction_method": "manual_reviewed_direct_http_product_jsonld",
+        "extraction_method": "direct_http_validated_product_offer_v1",
         "error": null,
-        "source_sha256": "a04d48857aaf722043b2784f37b85ad184c36e7334b3eb7a517ea7bfff246b22",
-        "notes": [
-          "Overland Park store offer; exact card matched by UPC and retailer SKU."
-        ],
-        "price_usd": 1979.99
+        "source_sha256": "4c48a5e3b4f306b01a863c1f7f4fbef9ba576757b03f24436b76a0b8cfcda477"
       }
     },
     {
       "listing_id": "newegg-rtx5080",
-      "last_attempt_at_utc": "2026-11-04T14:08:20Z",
+      "last_attempt_at_utc": "2026-11-05T13:15:08Z",
       "last_attempt_status": "success",
       "stale": false,
       "last_successful_observation": {
-        "observation_id": "manual-20261104T140923Z-6c5fc664:newegg-rtx5080",
-        "run_id": "manual-20261104T140923Z-6c5fc664",
-        "listing_id": "newegg-rtx5080",
+        "observation_id": "scheduled-20261105T131651Z-fed96a00:newegg-rtx5080",
+        "run_id": "scheduled-20261105T131651Z-fed96a00",
         "offer_id": "offer-98ae18275858d585143c",
+        "listing_id": "newegg-rtx5080",
         "card_id": "gigabyte-rtx5080-windforce-oc",
         "retailer_id": "newegg",
         "retailer_sku": "N82E16814932754",
@@ -353,9 +332,10 @@
         "seller": "Newegg",
         "condition": "new",
         "location": null,
-        "attempted_at_utc": "2026-11-04T14:08:20Z",
-        "price_checked_at_utc": "2026-11-04T14:08:31Z",
+        "attempted_at_utc": "2026-11-05T13:15:08Z",
+        "price_checked_at_utc": "2026-11-05T13:15:18Z",
         "collection_status": "success",
+        "price_usd": 2099.99,
         "currency": "USD",
         "shipping_usd": null,
         "shipping_status": "unknown",
@@ -364,25 +344,22 @@
         "availability": "out_of_stock",
         "stock_quantity_display": null,
         "fulfillment": "unknown",
-        "extraction_method": "manual_reviewed_direct_http_main_buybox_and_matching_item_stock",
+        "extraction_method": "direct_http_validated_product_offer_v1",
         "error": null,
-        "source_sha256": "7820fe6c6dab53f7cf3ac4c9e538b43779c2a34aa91b894bb7ba5187023a6323",
-        "notes": [
-          "Exact MPN in main heading; Newegg seller in main buy box. Shipping charge not verified."
-        ],
-        "price_usd": 2099.99
+        "source_sha256": "4e4849230f261480c9431c823d6a0fc56eefe8745b720b008e25c39a3904ed78",
+        "observed_seller": "Newegg"
       }
     },
     {
       "listing_id": "bestbuy-rtx5080",
-      "last_attempt_at_utc": "2026-11-04T14:08:24Z",
+      "last_attempt_at_utc": "2026-11-05T13:15:09Z",
       "last_attempt_status": "success",
       "stale": false,
       "last_successful_observation": {
-        "observation_id": "manual-20261104T140923Z-6c5fc664:bestbuy-rtx5080",
-        "run_id": "manual-20261104T140923Z-6c5fc664",
-        "listing_id": "bestbuy-rtx5080",
+        "observation_id": "scheduled-20261105T131651Z-fed96a00:bestbuy-rtx5080",
+        "run_id": "scheduled-20261105T131651Z-fed96a00",
         "offer_id": "offer-bd9f2b2b53f2a83dc6db",
+        "listing_id": "bestbuy-rtx5080",
         "card_id": "gigabyte-rtx5080-windforce-oc",
         "retailer_id": "bestbuy",
         "retailer_sku": "6616102",
@@ -390,9 +367,10 @@
         "seller": "Best Buy",
         "condition": "new",
         "location": null,
-        "attempted_at_utc": "2026-11-04T14:08:24Z",
-        "price_checked_at_utc": "2026-11-04T14:08:30Z",
+        "attempted_at_utc": "2026-11-05T13:15:09Z",
+        "price_checked_at_utc": "2026-11-05T13:15:18Z",
         "collection_status": "success",
+        "price_usd": 1699.99,
         "currency": "USD",
         "shipping_usd": null,
         "shipping_status": "unknown",
@@ -401,25 +379,21 @@
         "availability": "in_stock",
         "stock_quantity_display": null,
         "fulfillment": "unknown",
-        "extraction_method": "manual_reviewed_direct_http_product_jsonld",
+        "extraction_method": "direct_http_validated_product_offer_v1",
         "error": null,
-        "source_sha256": "8a4af6e43af6367fceb8a13bbb38fc6f6f2f38179df8c02811d486f1fa409273",
-        "notes": [
-          "New offer sold by Best Buy only; local pickup and delivery eligibility not verified."
-        ],
-        "price_usd": 1699.99
+        "source_sha256": "d8ca15b6b51ff6be6115010c7d79238e07b684ba9b5d6c9493d25643105de2f3"
       }
     },
     {
       "listing_id": "bhphoto-rtx5080",
-      "last_attempt_at_utc": "2026-11-04T14:08:24Z",
+      "last_attempt_at_utc": "2026-11-05T13:15:09Z",
       "last_attempt_status": "success",
       "stale": false,
       "last_successful_observation": {
-        "observation_id": "manual-20261104T140923Z-6c5fc664:bhphoto-rtx5080",
-        "run_id": "manual-20261104T140923Z-6c5fc664",
-        "listing_id": "bhphoto-rtx5080",
+        "observation_id": "scheduled-20261105T131651Z-fed96a00:bhphoto-rtx5080",
+        "run_id": "scheduled-20261105T131651Z-fed96a00",
         "offer_id": "offer-e27886ad1840bcd2c654",
+        "listing_id": "bhphoto-rtx5080",
         "card_id": "gigabyte-rtx5080-windforce-oc",
         "retailer_id": "bhphoto",
         "retailer_sku": "GIGVN5080WF3",
@@ -427,9 +401,10 @@
         "seller": "B&H Photo",
         "condition": "new",
         "location": null,
-        "attempted_at_utc": "2026-11-04T14:08:24Z",
-        "price_checked_at_utc": "2026-11-04T14:08:30Z",
+        "attempted_at_utc": "2026-11-05T13:15:09Z",
+        "price_checked_at_utc": "2026-11-05T13:15:18Z",
         "collection_status": "success",
+        "price_usd": 1699.99,
         "currency": "USD",
         "shipping_usd": null,
         "shipping_status": "unknown",
@@ -438,25 +413,21 @@
         "availability": "out_of_stock",
         "stock_quantity_display": null,
         "fulfillment": "unknown",
-        "extraction_method": "manual_reviewed_direct_http_product_jsonld",
+        "extraction_method": "direct_http_validated_product_offer_v1",
         "error": null,
-        "source_sha256": "8b7f719223f7ef8e5656c0fc3d0fcb73c3af546794e6f4148a5bb3225cd86a53",
-        "notes": [
-          "Direct B&H product offer; out-of-stock prices are retained but excluded from available-price comparisons."
-        ],
-        "price_usd": 1699.99
+        "source_sha256": "4010387482fc08f2d602500c6b243affca734c5c2ad590a67197db78180b691e"
       }
     },
     {
       "listing_id": "microcenter-rtx5060",
-      "last_attempt_at_utc": "2026-11-04T17:57:55Z",
+      "last_attempt_at_utc": "2026-11-05T13:15:12Z",
       "last_attempt_status": "success",
       "stale": false,
       "last_successful_observation": {
-        "observation_id": "manual-20261104T175923Z-4e96db4d:microcenter-rtx5060",
-        "run_id": "manual-20261104T175923Z-4e96db4d",
-        "listing_id": "microcenter-rtx5060",
+        "observation_id": "scheduled-20261105T131651Z-fed96a00:microcenter-rtx5060",
+        "run_id": "scheduled-20261105T131651Z-fed96a00",
         "offer_id": "offer-3d884a0b82f99d2c4069",
+        "listing_id": "microcenter-rtx5060",
         "card_id": "gigabyte-rtx5060-windforce-oc",
         "retailer_id": "microcenter",
         "retailer_sku": "869545",
@@ -464,9 +435,10 @@
         "seller": "Micro Center",
         "condition": "new",
         "location": "Overland Park, KS",
-        "attempted_at_utc": "2026-11-04T17:57:55Z",
-        "price_checked_at_utc": "2026-11-04T17:58:01Z",
+        "attempted_at_utc": "2026-11-05T13:15:12Z",
+        "price_checked_at_utc": "2026-11-05T13:15:19Z",
         "collection_status": "success",
+        "price_usd": 499.99,
         "currency": "USD",
         "shipping_usd": null,
         "shipping_status": "pickup_only",
@@ -475,25 +447,21 @@
         "availability": "in_stock",
         "stock_quantity_display": "4",
         "fulfillment": "pickup",
-        "extraction_method": "manual_reviewed_direct_http_product_jsonld",
+        "extraction_method": "direct_http_validated_product_offer_v1",
         "error": null,
-        "source_sha256": "6ef2cfbf5f75f8f2ca6b68522f3858b26db6020a1c3b823b55d4d603d5068b6a",
-        "notes": [
-          "Overland Park store offer; exact card matched by UPC and retailer SKU."
-        ],
-        "price_usd": 499.99
+        "source_sha256": "e780a6fe48ba07beaba336623baa1b9d1cbae4f520a1210cd99d25e4eff579f4"
       }
     },
     {
       "listing_id": "newegg-rtx5060",
-      "last_attempt_at_utc": "2026-11-04T17:57:55Z",
+      "last_attempt_at_utc": "2026-11-05T13:15:18Z",
       "last_attempt_status": "success",
       "stale": false,
       "last_successful_observation": {
-        "observation_id": "manual-20261104T175923Z-4e96db4d:newegg-rtx5060",
-        "run_id": "manual-20261104T175923Z-4e96db4d",
-        "listing_id": "newegg-rtx5060",
+        "observation_id": "scheduled-20261105T131651Z-fed96a00:newegg-rtx5060",
+        "run_id": "scheduled-20261105T131651Z-fed96a00",
         "offer_id": "offer-e2b3137f445e49323529",
+        "listing_id": "newegg-rtx5060",
         "card_id": "gigabyte-rtx5060-windforce-oc",
         "retailer_id": "newegg",
         "retailer_sku": "N82E16814932804",
@@ -501,9 +469,10 @@
         "seller": "Newegg",
         "condition": "new",
         "location": null,
-        "attempted_at_utc": "2026-11-04T17:57:55Z",
-        "price_checked_at_utc": "2026-11-04T17:58:09Z",
+        "attempted_at_utc": "2026-11-05T13:15:18Z",
+        "price_checked_at_utc": "2026-11-05T13:15:25Z",
         "collection_status": "success",
+        "price_usd": 499.99,
         "currency": "USD",
         "shipping_usd": null,
         "shipping_status": "unknown",
@@ -512,25 +481,22 @@
         "availability": "in_stock",
         "stock_quantity_display": null,
         "fulfillment": "unknown",
-        "extraction_method": "manual_reviewed_direct_http_main_buybox_and_matching_item_stock",
+        "extraction_method": "direct_http_validated_product_offer_v1",
         "error": null,
-        "source_sha256": "14ec905c1773f97adf9a47c34e0df58611164c2f3d01b1e77cd09db2d7bc23a3",
-        "notes": [
-          "Exact MPN in main heading; Newegg seller in main buy box. Shipping charge not verified."
-        ],
-        "price_usd": 499.99
+        "source_sha256": "8240e786365f3de03f2427bc4580806d1db6017a96735a56018e8348113a99bf",
+        "observed_seller": "Newegg"
       }
     },
     {
       "listing_id": "bestbuy-rtx5060",
-      "last_attempt_at_utc": "2026-11-04T17:57:55Z",
+      "last_attempt_at_utc": "2026-11-05T13:15:18Z",
       "last_attempt_status": "success",
       "stale": false,
       "last_successful_observation": {
-        "observation_id": "manual-20261104T175923Z-4e96db4d:bestbuy-rtx5060",
-        "run_id": "manual-20261104T175923Z-4e96db4d",
-        "listing_id": "bestbuy-rtx5060",
+        "observation_id": "scheduled-20261105T131651Z-fed96a00:bestbuy-rtx5060",
+        "run_id": "scheduled-20261105T131651Z-fed96a00",
         "offer_id": "offer-1c1118f3c36fa3b80825",
+        "listing_id": "bestbuy-rtx5060",
         "card_id": "gigabyte-rtx5060-windforce-oc",
         "retailer_id": "bestbuy",
         "retailer_sku": "6632708",
@@ -538,9 +504,10 @@
         "seller": "Best Buy",
         "condition": "new",
         "location": null,
-        "attempted_at_utc": "2026-11-04T17:57:55Z",
-        "price_checked_at_utc": "2026-11-04T17:58:02Z",
+        "attempted_at_utc": "2026-11-05T13:15:18Z",
+        "price_checked_at_utc": "2026-11-05T13:15:25Z",
         "collection_status": "success",
+        "price_usd": 459.99,
         "currency": "USD",
         "shipping_usd": null,
         "shipping_status": "unknown",
@@ -549,25 +516,21 @@
         "availability": "in_stock",
         "stock_quantity_display": null,
         "fulfillment": "unknown",
-        "extraction_method": "manual_reviewed_direct_http_product_jsonld",
+        "extraction_method": "direct_http_validated_product_offer_v1",
         "error": null,
-        "source_sha256": "ef6997255579a097a3b8a971c3654427f15aa1f5b820bd68a1fadd4cc3f6879f",
-        "notes": [
-          "New offer sold by Best Buy only; local pickup and delivery eligibility not verified."
-        ],
-        "price_usd": 459.99
+        "source_sha256": "e3e5da2d0314f8b5cbeff68cc46e1b7f6e51e5d4086a882ea20168855c49b9e7"
       }
     },
     {
       "listing_id": "bhphoto-rtx5060",
-      "last_attempt_at_utc": "2026-11-04T17:57:55Z",
+      "last_attempt_at_utc": "2026-11-05T13:15:18Z",
       "last_attempt_status": "success",
       "stale": false,
       "last_successful_observation": {
-        "observation_id": "manual-20261104T175923Z-4e96db4d:bhphoto-rtx5060",
-        "run_id": "manual-20261104T175923Z-4e96db4d",
-        "listing_id": "bhphoto-rtx5060",
+        "observation_id": "scheduled-20261105T131651Z-fed96a00:bhphoto-rtx5060",
+        "run_id": "scheduled-20261105T131651Z-fed96a00",
         "offer_id": "offer-d10973123e11310b1354",
+        "listing_id": "bhphoto-rtx5060",
         "card_id": "gigabyte-rtx5060-windforce-oc",
         "retailer_id": "bhphoto",
         "retailer_sku": "GIN5060W2OC8",
@@ -575,9 +538,10 @@
         "seller": "B&H Photo",
         "condition": "new",
         "location": null,
-        "attempted_at_utc": "2026-11-04T17:57:55Z",
-        "price_checked_at_utc": "2026-11-04T17:58:01Z",
+        "attempted_at_utc": "2026-11-05T13:15:18Z",
+        "price_checked_at_utc": "2026-11-05T13:15:24Z",
         "collection_status": "success",
+        "price_usd": 499.99,
         "currency": "USD",
         "shipping_usd": null,
         "shipping_status": "unknown",
@@ -586,25 +550,21 @@
         "availability": "out_of_stock",
         "stock_quantity_display": null,
         "fulfillment": "unknown",
-        "extraction_method": "manual_reviewed_direct_http_product_jsonld",
+        "extraction_method": "direct_http_validated_product_offer_v1",
         "error": null,
-        "source_sha256": "5a671c783385adc557455e3401e0dc49a26a6a20fa68f575f0063c8d03989495",
-        "notes": [
-          "Direct B&H product offer; out-of-stock prices are retained but excluded from available-price comparisons."
-        ],
-        "price_usd": 499.99
+        "source_sha256": "7de106bd8362f035535fc88655924d7d38da3ea481006409ed803b290a6b5bd7"
       }
     },
     {
       "listing_id": "microcenter-rtx5060ti",
-      "last_attempt_at_utc": "2026-11-04T17:58:01Z",
+      "last_attempt_at_utc": "2026-11-05T13:15:19Z",
       "last_attempt_status": "success",
       "stale": false,
       "last_successful_observation": {
-        "observation_id": "manual-20261104T175923Z-4e96db4d:microcenter-rtx5060ti",
-        "run_id": "manual-20261104T175923Z-4e96db4d",
-        "listing_id": "microcenter-rtx5060ti",
+        "observation_id": "scheduled-20261105T131651Z-fed96a00:microcenter-rtx5060ti",
+        "run_id": "scheduled-20261105T131651Z-fed96a00",
         "offer_id": "offer-3e0f6064f66fced08100",
+        "listing_id": "microcenter-rtx5060ti",
         "card_id": "gigabyte-rtx5060ti-windforce-oc",
         "retailer_id": "microcenter",
         "retailer_sku": "854430",
@@ -612,9 +572,10 @@
         "seller": "Micro Center",
         "condition": "new",
         "location": "Overland Park, KS",
-        "attempted_at_utc": "2026-11-04T17:58:01Z",
-        "price_checked_at_utc": "2026-11-04T17:58:06Z",
+        "attempted_at_utc": "2026-11-05T13:15:19Z",
+        "price_checked_at_utc": "2026-11-05T13:15:28Z",
         "collection_status": "success",
+        "price_usd": 829.99,
         "currency": "USD",
         "shipping_usd": null,
         "shipping_status": "pickup_only",
@@ -623,25 +584,21 @@
         "availability": "in_stock",
         "stock_quantity_display": "3",
         "fulfillment": "pickup",
-        "extraction_method": "manual_reviewed_direct_http_product_jsonld",
+        "extraction_method": "direct_http_validated_product_offer_v1",
         "error": null,
-        "source_sha256": "70b423daaf79221c711b6612135abede0ba1e7173bda61328991db2d093f1bcf",
-        "notes": [
-          "Overland Park store offer; exact card matched by UPC and retailer SKU."
-        ],
-        "price_usd": 829.99
+        "source_sha256": "242330e6f3cfb1588dbd1cfb3a1bfc4f73a76ae582d2eb8f5f9667001a2eec7a"
       }
     },
     {
       "listing_id": "newegg-rtx5060ti",
-      "last_attempt_at_utc": "2026-11-04T17:58:01Z",
+      "last_attempt_at_utc": "2026-11-05T13:15:24Z",
       "last_attempt_status": "success",
       "stale": false,
       "last_successful_observation": {
-        "observation_id": "manual-20261104T175923Z-4e96db4d:newegg-rtx5060ti",
-        "run_id": "manual-20261104T175923Z-4e96db4d",
-        "listing_id": "newegg-rtx5060ti",
+        "observation_id": "scheduled-20261105T131651Z-fed96a00:newegg-rtx5060ti",
+        "run_id": "scheduled-20261105T131651Z-fed96a00",
         "offer_id": "offer-267dcc18bd8be7712037",
+        "listing_id": "newegg-rtx5060ti",
         "card_id": "gigabyte-rtx5060ti-windforce-oc",
         "retailer_id": "newegg",
         "retailer_sku": "N82E16814932790",
@@ -649,9 +606,10 @@
         "seller": "Newegg",
         "condition": "new",
         "location": null,
-        "attempted_at_utc": "2026-11-04T17:58:01Z",
-        "price_checked_at_utc": "2026-11-04T17:58:15Z",
+        "attempted_at_utc": "2026-11-05T13:15:24Z",
+        "price_checked_at_utc": "2026-11-05T13:15:30Z",
         "collection_status": "success",
+        "price_usd": 829.99,
         "currency": "USD",
         "shipping_usd": null,
         "shipping_status": "unknown",
@@ -660,25 +618,22 @@
         "availability": "in_stock",
         "stock_quantity_display": null,
         "fulfillment": "unknown",
-        "extraction_method": "manual_reviewed_direct_http_main_buybox_and_matching_item_stock",
+        "extraction_method": "direct_http_validated_product_offer_v1",
         "error": null,
-        "source_sha256": "84af916d0aba0a81a00b98cd071ff6240ce6e4136bffbc27bda6f7eff54de449",
-        "notes": [
-          "Exact MPN in main heading; Newegg seller in main buy box. Shipping charge not verified."
-        ],
-        "price_usd": 829.99
+        "source_sha256": "9276d2c8533e9109d74f0e9c711e06e8a442afc3f1634ae5c5de76b845fd240e",
+        "observed_seller": "Newegg"
       }
     },
     {
       "listing_id": "bestbuy-rtx5060ti",
-      "last_attempt_at_utc": "2026-11-04T17:58:02Z",
+      "last_attempt_at_utc": "2026-11-05T13:15:25Z",
       "last_attempt_status": "success",
       "stale": false,
       "last_successful_observation": {
-        "observation_id": "manual-20261104T175923Z-4e96db4d:bestbuy-rtx5060ti",
-        "run_id": "manual-20261104T175923Z-4e96db4d",
-        "listing_id": "bestbuy-rtx5060ti",
+        "observation_id": "scheduled-20261105T131651Z-fed96a00:bestbuy-rtx5060ti",
+        "run_id": "scheduled-20261105T131651Z-fed96a00",
         "offer_id": "offer-1236f0fc60caf7443a38",
+        "listing_id": "bestbuy-rtx5060ti",
         "card_id": "gigabyte-rtx5060ti-windforce-oc",
         "retailer_id": "bestbuy",
         "retailer_sku": "6629363",
@@ -686,9 +641,10 @@
         "seller": "Best Buy",
         "condition": "new",
         "location": null,
-        "attempted_at_utc": "2026-11-04T17:58:02Z",
-        "price_checked_at_utc": "2026-11-04T17:58:12Z",
+        "attempted_at_utc": "2026-11-05T13:15:25Z",
+        "price_checked_at_utc": "2026-11-05T13:15:32Z",
         "collection_status": "success",
+        "price_usd": 799.99,
         "currency": "USD",
         "shipping_usd": null,
         "shipping_status": "unknown",
@@ -697,25 +653,21 @@
         "availability": "in_stock",
         "stock_quantity_display": null,
         "fulfillment": "unknown",
-        "extraction_method": "manual_reviewed_direct_http_product_jsonld",
+        "extraction_method": "direct_http_validated_product_offer_v1",
         "error": null,
-        "source_sha256": "343da3fe856e9849081221b1b85acaa573c8e048267d08e7413e396b1e088d84",
-        "notes": [
-          "New offer sold by Best Buy only; local pickup and delivery eligibility not verified."
-        ],
-        "price_usd": 799.99
+        "source_sha256": "4120ad286857285b43ea71e895d66d3f958aad458280986709f01ef6652fb4d8"
       }
     },
     {
       "listing_id": "bhphoto-rtx5060ti",
-      "last_attempt_at_utc": "2026-11-04T17:58:06Z",
+      "last_attempt_at_utc": "2026-11-05T13:15:25Z",
       "last_attempt_status": "success",
       "stale": false,
       "last_successful_observation": {
-        "observation_id": "manual-20261104T175923Z-4e96db4d:bhphoto-rtx5060ti",
-        "run_id": "manual-20261104T175923Z-4e96db4d",
-        "listing_id": "bhphoto-rtx5060ti",
+        "observation_id": "scheduled-20261105T131651Z-fed96a00:bhphoto-rtx5060ti",
+        "run_id": "scheduled-20261105T131651Z-fed96a00",
         "offer_id": "offer-67423f1e8fd771fda16b",
+        "listing_id": "bhphoto-rtx5060ti",
         "card_id": "gigabyte-rtx5060ti-windforce-oc",
         "retailer_id": "bhphoto",
         "retailer_sku": "GIN506TW2O16",
@@ -723,9 +675,10 @@
         "seller": "B&H Photo",
         "condition": "new",
         "location": null,
-        "attempted_at_utc": "2026-11-04T17:58:06Z",
-        "price_checked_at_utc": "2026-11-04T17:58:10Z",
+        "attempted_at_utc": "2026-11-05T13:15:25Z",
+        "price_checked_at_utc": "2026-11-05T13:15:32Z",
         "collection_status": "success",
+        "price_usd": 829.99,
         "currency": "USD",
         "shipping_usd": null,
         "shipping_status": "unknown",
@@ -734,25 +687,21 @@
         "availability": "out_of_stock",
         "stock_quantity_display": null,
         "fulfillment": "unknown",
-        "extraction_method": "manual_reviewed_direct_http_product_jsonld",
+        "extraction_method": "direct_http_validated_product_offer_v1",
         "error": null,
-        "source_sha256": "1197500765f86aa0482a6b71d4197815f65da67e31bb7e457a3e3974a73598a6",
-        "notes": [
-          "Direct B&H product offer; out-of-stock prices are retained but excluded from available-price comparisons."
-        ],
-        "price_usd": 829.99
+        "source_sha256": "78e179e51c7f325117d7591d754ebd6209e0ccb130e1a2072031c88d21c77d23"
       }
     },
     {
       "listing_id": "microcenter-rtx5070",
-      "last_attempt_at_utc": "2026-11-04T17:58:09Z",
+      "last_attempt_at_utc": "2026-11-05T13:15:28Z",
       "last_attempt_status": "success",
       "stale": false,
       "last_successful_observation": {
-        "observation_id": "manual-20261104T175923Z-4e96db4d:microcenter-rtx5070",
-        "run_id": "manual-20261104T175923Z-4e96db4d",
-        "listing_id": "microcenter-rtx5070",
+        "observation_id": "scheduled-20261105T131651Z-fed96a00:microcenter-rtx5070",
+        "run_id": "scheduled-20261105T131651Z-fed96a00",
         "offer_id": "offer-c14d5cc00504ded282f8",
+        "listing_id": "microcenter-rtx5070",
         "card_id": "gigabyte-rtx5070-windforce-oc",
         "retailer_id": "microcenter",
         "retailer_sku": "813972",
@@ -760,9 +709,10 @@
         "seller": "Micro Center",
         "condition": "new",
         "location": "Overland Park, KS",
-        "attempted_at_utc": "2026-11-04T17:58:09Z",
-        "price_checked_at_utc": "2026-11-04T17:58:16Z",
+        "attempted_at_utc": "2026-11-05T13:15:28Z",
+        "price_checked_at_utc": "2026-11-05T13:15:35Z",
         "collection_status": "success",
+        "price_usd": 839.99,
         "currency": "USD",
         "shipping_usd": null,
         "shipping_status": "pickup_only",
@@ -771,32 +721,28 @@
         "availability": "out_of_stock",
         "stock_quantity_display": null,
         "fulfillment": "pickup",
-        "extraction_method": "manual_reviewed_direct_http_product_jsonld",
+        "extraction_method": "direct_http_validated_product_offer_v1",
         "error": null,
-        "source_sha256": "f1cc6faaa76803647fb46f91a509a1e3fa3e4dfd00818eed5f40057befbefe29",
-        "notes": [
-          "Overland Park store offer; exact card matched by UPC and retailer SKU."
-        ],
-        "price_usd": 839.99
+        "source_sha256": "b8d86ca0280e82efa5e313d30cbadf24da93c7f405a0f8b72e38256d08de5362"
       }
     },
     {
       "listing_id": "newegg-rtx5070",
-      "last_attempt_at_utc": "2026-11-04T17:58:10Z",
+      "last_attempt_at_utc": "2026-11-05T13:15:30Z",
       "last_attempt_status": "identity_mismatch",
       "stale": true,
       "last_successful_observation": null
     },
     {
       "listing_id": "bestbuy-rtx5070",
-      "last_attempt_at_utc": "2026-11-04T17:58:12Z",
+      "last_attempt_at_utc": "2026-11-05T13:15:32Z",
       "last_attempt_status": "success",
       "stale": false,
       "last_successful_observation": {
-        "observation_id": "manual-20261104T175923Z-4e96db4d:bestbuy-rtx5070",
-        "run_id": "manual-20261104T175923Z-4e96db4d",
-        "listing_id": "bestbuy-rtx5070",
+        "observation_id": "scheduled-20261105T131651Z-fed96a00:bestbuy-rtx5070",
+        "run_id": "scheduled-20261105T131651Z-fed96a00",
         "offer_id": "offer-1902e933452bd4d9e997",
+        "listing_id": "bestbuy-rtx5070",
         "card_id": "gigabyte-rtx5070-windforce-oc",
         "retailer_id": "bestbuy",
         "retailer_sku": "6621265",
@@ -804,9 +750,10 @@
         "seller": "Best Buy",
         "condition": "new",
         "location": null,
-        "attempted_at_utc": "2026-11-04T17:58:12Z",
-        "price_checked_at_utc": "2026-11-04T17:58:18Z",
+        "attempted_at_utc": "2026-11-05T13:15:32Z",
+        "price_checked_at_utc": "2026-11-05T13:15:38Z",
         "collection_status": "success",
+        "price_usd": 799.99,
         "currency": "USD",
         "shipping_usd": null,
         "shipping_status": "unknown",
@@ -815,25 +762,21 @@
         "availability": "in_stock",
         "stock_quantity_display": null,
         "fulfillment": "unknown",
-        "extraction_method": "manual_reviewed_direct_http_product_jsonld",
+        "extraction_method": "direct_http_validated_product_offer_v1",
         "error": null,
-        "source_sha256": "90623c5d882bd1e66cbb4a4d32bf612f7f3d609f2281f311966be36cb5b9e03e",
-        "notes": [
-          "New offer sold by Best Buy only; local pickup and delivery eligibility not verified."
-        ],
-        "price_usd": 799.99
+        "source_sha256": "575b9695e484909dd896b75b3bfdd5dd282b9fb2c6f4ea8f2150b3d7340a5b33"
       }
     },
     {
       "listing_id": "bhphoto-rtx5070",
-      "last_attempt_at_utc": "2026-11-04T17:58:15Z",
+      "last_attempt_at_utc": "2026-11-05T13:15:32Z",
       "last_attempt_status": "success",
       "stale": false,
       "last_successful_observation": {
-        "observation_id": "manual-20261104T175923Z-4e96db4d:bhphoto-rtx5070",
-        "run_id": "manual-20261104T175923Z-4e96db4d",
-        "listing_id": "bhphoto-rtx5070",
+        "observation_id": "scheduled-20261105T131651Z-fed96a00:bhphoto-rtx5070",
+        "run_id": "scheduled-20261105T131651Z-fed96a00",
         "offer_id": "offer-0b5b87b8dbe1ef7dd2a8",
+        "listing_id": "bhphoto-rtx5070",
         "card_id": "gigabyte-rtx5070-windforce-oc",
         "retailer_id": "bhphoto",
         "retailer_sku": "GIN5070W3O12",
@@ -841,9 +784,10 @@
         "seller": "B&H Photo",
         "condition": "new",
         "location": null,
-        "attempted_at_utc": "2026-11-04T17:58:15Z",
-        "price_checked_at_utc": "2026-11-04T17:58:22Z",
+        "attempted_at_utc": "2026-11-05T13:15:32Z",
+        "price_checked_at_utc": "2026-11-05T13:15:38Z",
         "collection_status": "success",
+        "price_usd": 839.99,
         "currency": "USD",
         "shipping_usd": null,
         "shipping_status": "unknown",
@@ -852,25 +796,21 @@
         "availability": "out_of_stock",
         "stock_quantity_display": null,
         "fulfillment": "unknown",
-        "extraction_method": "manual_reviewed_direct_http_product_jsonld",
+        "extraction_method": "direct_http_validated_product_offer_v1",
         "error": null,
-        "source_sha256": "1257cbbeb60433c85294336b48e5c0be50caeac7ce66f1256cca53701bdab644",
-        "notes": [
-          "Direct B&H product offer; out-of-stock prices are retained but excluded from available-price comparisons."
-        ],
-        "price_usd": 839.99
+        "source_sha256": "99cdb3b4648fa92e3fa21bba92cd84cdbb66dbde8f3fc350e9e669abe5bbd558"
       }
     },
     {
       "listing_id": "microcenter-rx9060xt",
-      "last_attempt_at_utc": "2026-11-04T17:58:16Z",
+      "last_attempt_at_utc": "2026-11-05T13:15:35Z",
       "last_attempt_status": "success",
       "stale": false,
       "last_successful_observation": {
-        "observation_id": "manual-20261104T175923Z-4e96db4d:microcenter-rx9060xt",
-        "run_id": "manual-20261104T175923Z-4e96db4d",
-        "listing_id": "microcenter-rx9060xt",
+        "observation_id": "scheduled-20261105T131651Z-fed96a00:microcenter-rx9060xt",
+        "run_id": "scheduled-20261105T131651Z-fed96a00",
         "offer_id": "offer-d433e3e9eb2ccaaefe19",
+        "listing_id": "microcenter-rx9060xt",
         "card_id": "gigabyte-rx9060xt-gaming-oc",
         "retailer_id": "microcenter",
         "retailer_sku": "873505",
@@ -878,9 +818,10 @@
         "seller": "Micro Center",
         "condition": "new",
         "location": "Overland Park, KS",
-        "attempted_at_utc": "2026-11-04T17:58:16Z",
-        "price_checked_at_utc": "2026-11-04T17:58:25Z",
+        "attempted_at_utc": "2026-11-05T13:15:35Z",
+        "price_checked_at_utc": "2026-11-05T13:15:41Z",
         "collection_status": "success",
+        "price_usd": 799.99,
         "currency": "USD",
         "shipping_usd": null,
         "shipping_status": "pickup_only",
@@ -889,25 +830,21 @@
         "availability": "in_stock",
         "stock_quantity_display": "14",
         "fulfillment": "pickup",
-        "extraction_method": "manual_reviewed_direct_http_product_jsonld",
+        "extraction_method": "direct_http_validated_product_offer_v1",
         "error": null,
-        "source_sha256": "eba0c8757c9889684540069c4f9095ea1309b12a5e9fe7d0a3b65cb3b4e39a7b",
-        "notes": [
-          "Overland Park store offer; exact card matched by UPC and retailer SKU."
-        ],
-        "price_usd": 799.99
+        "source_sha256": "e322c6ca4e3bfb42be879844accc6590d767782133e2caf49892dd61fabafd9c"
       }
     },
     {
       "listing_id": "newegg-rx9060xt",
-      "last_attempt_at_utc": "2026-11-04T17:58:18Z",
+      "last_attempt_at_utc": "2026-11-05T13:15:38Z",
       "last_attempt_status": "success",
       "stale": false,
       "last_successful_observation": {
-        "observation_id": "manual-20261104T175923Z-4e96db4d:newegg-rx9060xt",
-        "run_id": "manual-20261104T175923Z-4e96db4d",
-        "listing_id": "newegg-rx9060xt",
+        "observation_id": "scheduled-20261105T131651Z-fed96a00:newegg-rx9060xt",
+        "run_id": "scheduled-20261105T131651Z-fed96a00",
         "offer_id": "offer-197f45e7e02621b51eca",
+        "listing_id": "newegg-rx9060xt",
         "card_id": "gigabyte-rx9060xt-gaming-oc",
         "retailer_id": "newegg",
         "retailer_sku": "N82E16814932806",
@@ -915,9 +852,10 @@
         "seller": "Newegg",
         "condition": "new",
         "location": null,
-        "attempted_at_utc": "2026-11-04T17:58:18Z",
-        "price_checked_at_utc": "2026-11-04T17:58:27Z",
+        "attempted_at_utc": "2026-11-05T13:15:38Z",
+        "price_checked_at_utc": "2026-11-05T13:15:44Z",
         "collection_status": "success",
+        "price_usd": 759.99,
         "currency": "USD",
         "shipping_usd": null,
         "shipping_status": "unknown",
@@ -926,25 +864,22 @@
         "availability": "in_stock",
         "stock_quantity_display": null,
         "fulfillment": "unknown",
-        "extraction_method": "manual_reviewed_direct_http_main_buybox_and_matching_item_stock",
+        "extraction_method": "direct_http_validated_product_offer_v1",
         "error": null,
-        "source_sha256": "e45cbdb61db808cd98f8cb1b4389d97d2f0b20c0a0ee3be14be7a02ecc5965ed",
-        "notes": [
-          "Exact MPN in main heading; Newegg seller in main buy box. Shipping charge not verified."
-        ],
-        "price_usd": 759.99
+        "source_sha256": "7e895155f18375e0299f89337af778d03297e407fec61c410b6beac609a38f2b",
+        "observed_seller": "Newegg"
       }
     },
     {
       "listing_id": "bestbuy-rx9060xt",
-      "last_attempt_at_utc": "2026-11-04T17:58:20Z",
+      "last_attempt_at_utc": "2026-11-05T13:15:38Z",
       "last_attempt_status": "success",
       "stale": false,
       "last_successful_observation": {
-        "observation_id": "manual-20261104T175923Z-4e96db4d:bestbuy-rx9060xt",
-        "run_id": "manual-20261104T175923Z-4e96db4d",
-        "listing_id": "bestbuy-rx9060xt",
+        "observation_id": "scheduled-20261105T131651Z-fed96a00:bestbuy-rx9060xt",
+        "run_id": "scheduled-20261105T131651Z-fed96a00",
         "offer_id": "offer-21b8efbb806ce4bc1f63",
+        "listing_id": "bestbuy-rx9060xt",
         "card_id": "gigabyte-rx9060xt-gaming-oc",
         "retailer_id": "bestbuy",
         "retailer_sku": "6633162",
@@ -952,9 +887,10 @@
         "seller": "Best Buy",
         "condition": "new",
         "location": null,
-        "attempted_at_utc": "2026-11-04T17:58:20Z",
-        "price_checked_at_utc": "2026-11-04T17:58:27Z",
+        "attempted_at_utc": "2026-11-05T13:15:38Z",
+        "price_checked_at_utc": "2026-11-05T13:15:45Z",
         "collection_status": "success",
+        "price_usd": 759.99,
         "currency": "USD",
         "shipping_usd": null,
         "shipping_status": "unknown",
@@ -963,25 +899,21 @@
         "availability": "in_stock",
         "stock_quantity_display": null,
         "fulfillment": "unknown",
-        "extraction_method": "manual_reviewed_direct_http_product_jsonld",
+        "extraction_method": "direct_http_validated_product_offer_v1",
         "error": null,
-        "source_sha256": "9fea021ce8a76bccca0fc36df9f3576bdb49d89a05c2e26abd707a93f6d8a7ac",
-        "notes": [
-          "New offer sold by Best Buy only; local pickup and delivery eligibility not verified."
-        ],
-        "price_usd": 759.99
+        "source_sha256": "be55de7bff27507e1d20a4477553cb6c4263be9d58aa047b4bc885a2d83600ef"
       }
     },
     {
       "listing_id": "bhphoto-rx9060xt",
-      "last_attempt_at_utc": "2026-11-04T17:58:22Z",
+      "last_attempt_at_utc": "2026-11-05T13:15:41Z",
       "last_attempt_status": "success",
       "stale": false,
       "last_successful_observation": {
-        "observation_id": "manual-20261104T175923Z-4e96db4d:bhphoto-rx9060xt",
-        "run_id": "manual-20261104T175923Z-4e96db4d",
-        "listing_id": "bhphoto-rx9060xt",
+        "observation_id": "scheduled-20261105T131651Z-fed96a00:bhphoto-rx9060xt",
+        "run_id": "scheduled-20261105T131651Z-fed96a00",
         "offer_id": "offer-c751e4d4137fbfdbbaaa",
+        "listing_id": "bhphoto-rx9060xt",
         "card_id": "gigabyte-rx9060xt-gaming-oc",
         "retailer_id": "bhphoto",
         "retailer_sku": "GIR9060XTG16",
@@ -989,9 +921,10 @@
         "seller": "B&H Photo",
         "condition": "new",
         "location": null,
-        "attempted_at_utc": "2026-11-04T17:58:22Z",
-        "price_checked_at_utc": "2026-11-04T17:58:28Z",
+        "attempted_at_utc": "2026-11-05T13:15:41Z",
+        "price_checked_at_utc": "2026-11-05T13:15:46Z",
         "collection_status": "success",
+        "price_usd": 759.99,
         "currency": "USD",
         "shipping_usd": null,
         "shipping_status": "unknown",
@@ -1000,13 +933,9 @@
         "availability": "out_of_stock",
         "stock_quantity_display": null,
         "fulfillment": "unknown",
-        "extraction_method": "manual_reviewed_direct_http_product_jsonld",
+        "extraction_method": "direct_http_validated_product_offer_v1",
         "error": null,
-        "source_sha256": "a9dc7b7adf26bc43b4117f47ab7fd53b1ce477c71fe6129123fe0bf9c33cd3f7",
-        "notes": [
-          "Direct B&H product offer; out-of-stock prices are retained but excluded from available-price comparisons."
-        ],
-        "price_usd": 759.99
+        "source_sha256": "18aa2659584027c8edf82cae28f947c8f4981fb08117e73706610bf25f3d946a"
       }
     }
   ]
