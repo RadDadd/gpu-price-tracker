@@ -4,7 +4,7 @@ Tracks GPU prices and availability across major retailers, preserves daily price
 
 ## Current status
 
-Manual retailer checks populate the live dashboard at https://raddata.dev/gpu-tracker.html. The latest data and dated observations are stored in this repository; failed seller checks are recorded without treating marketplace prices as retailer offers. Automatic collection is not implemented or scheduled; `collection_enabled` remains false.
+Manual retailer checks populate the live dashboard at https://raddata.dev/gpu-tracker.html. The latest data and dated observations are stored in this repository; failed seller checks are recorded without treating marketplace prices as retailer offers. Daily collection is scheduled through a ChatGPT automation at 7:17 a.m. America/Chicago, starting November 5, 2026. Each run checks the enabled watchlist and commits validated observations to this repository. The GitHub Actions workflow remains configuration validation only; it is not a second scheduled collector. The first unattended run has not completed yet.
 
 The watchlist contains seven exact Gigabyte models across Micro Center (Overland Park), Newegg, Best Buy, and B&H Photo: RTX 5060 WINDFORCE OC 8G, RTX 5060 Ti WINDFORCE OC 16G, RTX 5070 WINDFORCE OC SFF 12G, RTX 5070 Ti WINDFORCE OC SFF 16G, RTX 5080 WINDFORCE OC SFF 16G, RX 9060 XT GAMING OC 16G, and RX 9070 XT GAMING OC 16G. Amazon is excluded. VRAM, memory type, bus width, and GPU core counts are verified against Gigabyte specifications. New cards start history at their first actual check; no earlier prices are backfilled.
 
@@ -42,7 +42,7 @@ You can also run **Validate tracker scaffold** from the GitHub Actions tab. The 
 5. Append observations to dated history, then rebuild latest and summary views.
 6. Commit validated data for the raddata.dev frontend to consume.
 
-Target cadence: daily, around 7:17 a.m. America/Chicago. Set up timezone handling and scheduling after the live collector is tested. Manual runs must preserve prior observations and use unique run IDs.
+Scheduled cadence: daily at 7:17 a.m. America/Chicago via ChatGPT automation. Manual and automated runs must preserve prior observations and use unique run IDs.
 
 ## Data rules
 
@@ -62,7 +62,7 @@ See [the data model](docs/data-model.md) for the field contract.
 
 - Implement and verify the four retailer adapters.
 - Automate the existing observation contract with append-safe history writing and error handling.
-- Implement latest/summary generation and enable daily collection.
+- Verify the first unattended run and continue improving the retailer parsers.
 - Continue building price history from fresh checks; the first snapshot has no prior-price baseline.
 
 ## Credentials and licensing

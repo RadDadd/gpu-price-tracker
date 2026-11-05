@@ -2,12 +2,13 @@
   "schema_version": "1.0",
   "currency": "USD",
   "display_timezone": "America/Chicago",
-  "collection_enabled": false,
+  "collection_enabled": true,
   "cadence": {
     "target_frequency": "daily",
     "target_local_time": "07:17",
     "timezone": "America/Chicago",
-    "scheduled": false
+    "scheduled": true,
+    "scheduler": "ChatGPT automation"
   },
   "retailers": [
     {
