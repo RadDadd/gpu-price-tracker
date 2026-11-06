@@ -293,6 +293,87 @@
       "product_url": "https://www.bhphotovideo.com/c/product/1896600-REG/gigabyte_gv_r9060xtgaming_oc_16gd_radeon_rx_9060_xt.html",
       "condition": "new",
       "enabled": true
+    },
+    {
+      "listing_id": "microcenter-pny-rtx5070ti-oc",
+      "card_id": "pny-rtx5070ti-oc",
+      "retailer_id": "microcenter",
+      "product_url": "https://www.microcenter.com/product/690475/pny-nvidia-geforce-rtx-5070-ti-overclocked-triple-fan-16gb-gddr7-pcie-50-graphics-card?storeid=191",
+      "enabled": true,
+      "retailer_sku": "805200",
+      "condition": "new"
+    },
+    {
+      "listing_id": "microcenter-msi-rtx5060-ventus-oc",
+      "card_id": "msi-rtx5060-ventus-oc",
+      "retailer_id": "microcenter",
+      "product_url": "https://www.microcenter.com/product/694757/msi-nvidia-geforce-rtx-5060-ventus-2x-overclocked-dual-fan-8gb-gddr7-pcie-50-graphics-card?storeid=191",
+      "enabled": true,
+      "retailer_sku": "860726",
+      "condition": "new"
+    },
+    {
+      "listing_id": "microcenter-pny-rtx5060ti-oc",
+      "card_id": "pny-rtx5060ti-oc",
+      "retailer_id": "microcenter",
+      "product_url": "https://www.microcenter.com/product/694811/pny-nvidia-geforce-rtx-5060-ti-overclocked-dual-fan-16gb-gddr7-pcie-50-graphics-card?storeid=191",
+      "enabled": true,
+      "retailer_sku": "854968",
+      "condition": "new"
+    },
+    {
+      "listing_id": "microcenter-pny-rtx5070-oc",
+      "card_id": "pny-rtx5070-oc",
+      "retailer_id": "microcenter",
+      "product_url": "https://www.microcenter.com/product/690478/pny-nvidia-geforce-rtx-5070-overclocked-triple-fan-12gb-gddr7-pcie-50-graphics-card?storeid=191",
+      "enabled": true,
+      "retailer_sku": "805168",
+      "condition": "new"
+    },
+    {
+      "listing_id": "microcenter-pny-rtx5080-slim-oc",
+      "card_id": "pny-rtx5080-slim-oc",
+      "retailer_id": "microcenter",
+      "product_url": "https://www.microcenter.com/product/709583/pny-nvidia-geforce-rtx-5080-slim-overclocked-dual-fan-16gb-gddr7-pcie-50-graphics-card?storeid=191",
+      "enabled": true,
+      "retailer_sku": "20024",
+      "condition": "new"
+    },
+    {
+      "listing_id": "microcenter-powercolor-rx9060xt-reaper",
+      "card_id": "powercolor-rx9060xt-reaper",
+      "retailer_id": "microcenter",
+      "product_url": "https://www.microcenter.com/product/696246/powercolor-amd-radeon-rx-9060-xt-reaper-dual-fan-16gb-gddr6-pcie-50-graphics-card?storeid=191",
+      "enabled": true,
+      "retailer_sku": "872010",
+      "condition": "new"
+    },
+    {
+      "listing_id": "microcenter-powercolor-rx9070xt-reaper",
+      "card_id": "powercolor-rx9070xt-reaper",
+      "retailer_id": "microcenter",
+      "product_url": "https://www.microcenter.com/product/706952/powercolor-amd-radeon-rx-9070-xt-reaper-triple-fan-16gb-gddr6-pcie-50-graphics-card?storeid=191",
+      "enabled": true,
+      "retailer_sku": "986786",
+      "condition": "new"
+    },
+    {
+      "listing_id": "bestbuy-pny-rtx5070ti-oc",
+      "card_id": "pny-rtx5070ti-oc",
+      "retailer_id": "bestbuy",
+      "retailer_sku": "6620367",
+      "product_url": "https://www.bestbuy.com/product/pny-nvidia-geforce-rtx-5070-ti-overclocked-16gb-gddr7-pci-express-5-0-graphics-card-with-triple-fan-black/6620367",
+      "condition": "new",
+      "enabled": true
+    },
+    {
+      "listing_id": "bhphoto-pny-rtx5070ti-oc",
+      "card_id": "pny-rtx5070ti-oc",
+      "retailer_id": "bhphoto",
+      "retailer_sku": "PN5070T16OTF",
+      "product_url": "https://www.bhphotovideo.com/c/product/1874643-REG/pny_vcg5070t16tfxpb1_o_geforce_rtx_5070_ti.html",
+      "condition": "new",
+      "enabled": true
     }
   ]
 }

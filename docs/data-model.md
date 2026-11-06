@@ -45,3 +45,8 @@ Generate prior-check changes, 7/30-day comparisons, lowest observed price/date, 
 ## Schema evolution
 
 Every JSON document carries `schema_version`. Extend fields compatibly where possible, and document breaking changes before migrating old snapshots. Generated latest/summary views must be rebuildable from catalog, watchlist, and history.
+
+
+## GPU-family market comparison
+
+See [market-coverage.md](market-coverage.md) for sample scope, offer weighting, GPU/VRAM separation, coverage counts, and history rules. Catalog `specs_status` may be `manufacturer_verified` or `retailer_verified`; `specs_source_url` records the actual verification source. UPC fields can hold a 12-digit UPC or 13-digit EAN. Exact-model identities remain separate in all stored observations.
