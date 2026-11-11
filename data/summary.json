@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at_utc": "2026-11-10T13:14:38Z",
+  "generated_at_utc": "2026-11-11T13:16:06Z",
   "status": "partial",
   "comparison_rule": "Previous successful observation of the exact same offer; no baseline yields null.",
   "comparisons": [
@@ -8,13 +8,13 @@
       "listing_id": "microcenter-rx9070xt",
       "price_usd": 1099.99,
       "availability": "in_stock",
-      "previous_check_change_usd": 100.0
+      "previous_check_change_usd": 0.0
     },
     {
       "listing_id": "microcenter-rtx5070ti",
       "price_usd": 1549.99,
       "availability": "out_of_stock",
-      "previous_check_change_usd": 100.0
+      "previous_check_change_usd": 0.0
     },
     {
       "listing_id": "newegg-rx9070xt",
@@ -24,15 +24,15 @@
     },
     {
       "listing_id": "newegg-rtx5070ti",
-      "price_usd": null,
-      "availability": "unknown",
-      "previous_check_change_usd": null
+      "price_usd": 1439.99,
+      "availability": "out_of_stock",
+      "previous_check_change_usd": 0.0
     },
     {
       "listing_id": "bestbuy-rx9070xt",
-      "price_usd": 1049.99,
+      "price_usd": 1034.99,
       "availability": "in_stock",
-      "previous_check_change_usd": 0.0
+      "previous_check_change_usd": -15.0
     },
     {
       "listing_id": "bestbuy-rtx5070ti",
@@ -54,15 +54,15 @@
     },
     {
       "listing_id": "microcenter-rtx5080",
-      "price_usd": 2179.99,
+      "price_usd": 2079.99,
       "availability": "in_stock",
-      "previous_check_change_usd": 100.0
+      "previous_check_change_usd": -100.0
     },
     {
       "listing_id": "newegg-rtx5080",
-      "price_usd": 2099.99,
-      "availability": "in_stock",
-      "previous_check_change_usd": 0.0
+      "price_usd": null,
+      "availability": "unknown",
+      "previous_check_change_usd": null
     },
     {
       "listing_id": "bestbuy-rtx5080",
@@ -176,7 +176,7 @@
       "listing_id": "microcenter-pny-rtx5070ti-oc",
       "price_usd": 1479.99,
       "availability": "in_stock",
-      "previous_check_change_usd": 50.0
+      "previous_check_change_usd": 0.0
     },
     {
       "listing_id": "microcenter-msi-rtx5060-ventus-oc",
@@ -204,9 +204,9 @@
     },
     {
       "listing_id": "microcenter-powercolor-rx9060xt-reaper",
-      "price_usd": 799.99,
+      "price_usd": 819.99,
       "availability": "in_stock",
-      "previous_check_change_usd": 0.0
+      "previous_check_change_usd": 20.0
     },
     {
       "listing_id": "microcenter-powercolor-rx9070xt-reaper",
@@ -216,9 +216,9 @@
     },
     {
       "listing_id": "bestbuy-pny-rtx5070ti-oc",
-      "price_usd": 1500.0,
+      "price_usd": 1499.99,
       "availability": "in_stock",
-      "previous_check_change_usd": 0.0
+      "previous_check_change_usd": -0.01
     },
     {
       "listing_id": "bhphoto-pny-rtx5070ti-oc",
