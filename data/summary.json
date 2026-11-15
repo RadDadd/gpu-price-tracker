@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at_utc": "2026-11-14T13:25:00Z",
+  "generated_at_utc": "2026-11-15T13:21:05Z",
   "status": "collected",
   "comparison_rule": "Previous successful observation of the exact same offer; no baseline yields null.",
   "comparisons": [
@@ -26,13 +26,13 @@
       "listing_id": "newegg-rtx5070ti",
       "price_usd": 1549.99,
       "availability": "in_stock",
-      "previous_check_change_usd": 110.0
+      "previous_check_change_usd": 0.0
     },
     {
       "listing_id": "bestbuy-rx9070xt",
       "price_usd": 1049.99,
       "availability": "in_stock",
-      "previous_check_change_usd": 15.0
+      "previous_check_change_usd": 0.0
     },
     {
       "listing_id": "bestbuy-rtx5070ti",
