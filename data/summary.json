@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at_utc": "2026-11-15T13:21:05Z",
+  "generated_at_utc": "2026-11-16T13:39:59Z",
   "status": "collected",
   "comparison_rule": "Previous successful observation of the exact same offer; no baseline yields null.",
   "comparisons": [
@@ -180,9 +180,9 @@
     },
     {
       "listing_id": "microcenter-msi-rtx5060-ventus-oc",
-      "price_usd": 499.99,
+      "price_usd": 529.99,
       "availability": "in_stock",
-      "previous_check_change_usd": 0.0
+      "previous_check_change_usd": 30.0
     },
     {
       "listing_id": "microcenter-pny-rtx5060ti-oc",
