@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at_utc": "2026-11-21T13:22:47Z",
+  "generated_at_utc": "2026-11-22T13:18:10Z",
   "status": "partial",
   "comparison_rule": "Previous successful observation of the exact same offer; no baseline yields null.",
   "comparisons": [
@@ -12,9 +12,9 @@
     },
     {
       "listing_id": "microcenter-rtx5070ti",
-      "price_usd": 1549.99,
-      "availability": "out_of_stock",
-      "previous_check_change_usd": 0.0
+      "price_usd": null,
+      "availability": "unknown",
+      "previous_check_change_usd": null
     },
     {
       "listing_id": "newegg-rx9070xt",
@@ -174,9 +174,9 @@
     },
     {
       "listing_id": "microcenter-pny-rtx5070ti-oc",
-      "price_usd": 1369.99,
+      "price_usd": 1399.99,
       "availability": "in_stock",
-      "previous_check_change_usd": -30.0
+      "previous_check_change_usd": 30.0
     },
     {
       "listing_id": "microcenter-msi-rtx5060-ventus-oc",
@@ -187,7 +187,7 @@
     {
       "listing_id": "microcenter-pny-rtx5060ti-oc",
       "price_usd": 789.99,
-      "availability": "in_stock",
+      "availability": "out_of_stock",
       "previous_check_change_usd": 0.0
     },
     {
