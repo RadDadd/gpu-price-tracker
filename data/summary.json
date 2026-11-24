@@ -1,14 +1,14 @@
 {
   "schema_version": "1.0",
-  "generated_at_utc": "2026-11-23T13:16:11Z",
+  "generated_at_utc": "2026-11-24T13:14:36Z",
   "status": "partial",
   "comparison_rule": "Previous successful observation of the exact same offer; no baseline yields null.",
   "comparisons": [
     {
       "listing_id": "microcenter-rx9070xt",
-      "price_usd": 1199.99,
+      "price_usd": 899.99,
       "availability": "in_stock",
-      "previous_check_change_usd": 0.0
+      "previous_check_change_usd": -300.0
     },
     {
       "listing_id": "microcenter-rtx5070ti",
@@ -186,9 +186,9 @@
     },
     {
       "listing_id": "microcenter-pny-rtx5060ti-oc",
-      "price_usd": 789.99,
+      "price_usd": 769.99,
       "availability": "out_of_stock",
-      "previous_check_change_usd": 0.0
+      "previous_check_change_usd": -20.0
     },
     {
       "listing_id": "microcenter-pny-rtx5070-oc",
@@ -204,9 +204,9 @@
     },
     {
       "listing_id": "microcenter-powercolor-rx9060xt-reaper",
-      "price_usd": 819.99,
+      "price_usd": 599.99,
       "availability": "in_stock",
-      "previous_check_change_usd": 0.0
+      "previous_check_change_usd": -220.0
     },
     {
       "listing_id": "microcenter-powercolor-rx9070xt-reaper",
