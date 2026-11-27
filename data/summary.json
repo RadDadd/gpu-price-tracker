@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at_utc": "2026-11-26T13:14:54Z",
+  "generated_at_utc": "2026-11-27T13:17:10Z",
   "status": "partial",
   "comparison_rule": "Previous successful observation of the exact same offer; no baseline yields null.",
   "comparisons": [
@@ -187,7 +187,7 @@
     {
       "listing_id": "microcenter-pny-rtx5060ti-oc",
       "price_usd": 769.99,
-      "availability": "in_stock",
+      "availability": "out_of_stock",
       "previous_check_change_usd": 0.0
     },
     {
