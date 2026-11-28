@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at_utc": "2026-11-27T13:17:10Z",
+  "generated_at_utc": "2026-11-28T13:15:44Z",
   "status": "partial",
   "comparison_rule": "Previous successful observation of the exact same offer; no baseline yields null.",
   "comparisons": [
@@ -13,7 +13,7 @@
     {
       "listing_id": "microcenter-rtx5070ti",
       "price_usd": 1549.99,
-      "availability": "in_stock",
+      "availability": "out_of_stock",
       "previous_check_change_usd": 0.0
     },
     {
@@ -79,7 +79,7 @@
     {
       "listing_id": "microcenter-rtx5060",
       "price_usd": 499.99,
-      "availability": "in_stock",
+      "availability": "out_of_stock",
       "previous_check_change_usd": 0.0
     },
     {
@@ -133,7 +133,7 @@
     {
       "listing_id": "newegg-rtx5070",
       "price_usd": 899.99,
-      "availability": "in_stock",
+      "availability": "out_of_stock",
       "previous_check_change_usd": 0.0
     },
     {
@@ -175,7 +175,7 @@
     {
       "listing_id": "microcenter-pny-rtx5070ti-oc",
       "price_usd": 1399.99,
-      "availability": "in_stock",
+      "availability": "out_of_stock",
       "previous_check_change_usd": 0.0
     },
     {
@@ -222,9 +222,9 @@
     },
     {
       "listing_id": "bhphoto-pny-rtx5070ti-oc",
-      "price_usd": 1479.99,
+      "price_usd": 1499.99,
       "availability": "in_stock",
-      "previous_check_change_usd": 0.0
+      "previous_check_change_usd": 20.0
     }
   ]
 }
